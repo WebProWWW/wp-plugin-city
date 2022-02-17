@@ -102,7 +102,7 @@ echo $subName;
 
 ### Шаблон
 
-Плагин подключает в шаблон библиотеки `jQuery` `Fancybox` и встраивает в подвал следующий `html` код:
+Плагин подключает в шаблон библиотеки [jQuery](https://github.com/jquery/jquery), [Fancybox](https://github.com/fancyapps/ui) и встраивает в подвал следующий `html` код:
 
 ```html
 <!-- ВАШ ГОРОД? -->
