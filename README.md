@@ -150,12 +150,14 @@ echo $subName;
 
             <div class="search-city-item js-search-city-item">
                 <a class="search-city-link js-search-city-data" href="http(s)://babaevo.example.com">
-                    Бабаево </a>
+                    Бабаево
+                </a>
             </div>
 
             <div class="search-city-item js-search-city-item">
                 <a class="search-city-link js-search-city-data" href="http(s)://babushkin.example.com">
-                    Бабушкин </a>
+                    Бабушкин
+                </a>
             </div>
 
             ...
