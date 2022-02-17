@@ -1,6 +1,8 @@
 <?php
 namespace plugins\city\models;
 
+use stdClass;
+
 /**
  * @property int $id
  * @property string $alias
@@ -30,13 +32,23 @@ class City {
 		global $wpdb;
 		$tale = $wpdb->prefix . 'city';
 		$alias = self::subDomainName();
-		$city = $wpdb->get_row("SELECT * FROM `$tale` WHERE alias='$alias'");
+		$city = new stdClass();
+		$city->id = null;
+		$city->region_id = null;
+		$city->name = '';
+		$city->alias = $alias;
+		if ($alias !== 'index') {
+			$city = $wpdb->get_row("SELECT * FROM `$tale` WHERE alias='$alias'");
+		}
 		return new City($city);
 	}
 
 	public function url() {
 		$http = is_ssl() ? 'https://' : 'http://';
-		return $http . $this->alias . '.' . $this->rootDomain();
+		if ($this->alias === 'index') {
+			return $http . City::rootDomain();
+		}
+		return $http . $this->alias . '.' . City::rootDomain();
 	}
 
 	public static function subDomainName() {
@@ -45,7 +57,7 @@ class City {
 		if (count($domainArr) === 4) {
 			return $domainArr[0];
 		}
-		return 'moskva';
+		return 'index';
 	}
 
 	/**

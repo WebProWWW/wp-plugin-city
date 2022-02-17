@@ -5,7 +5,7 @@ Plugin URI: https://github.com/WebProWWW/wp-plugin-city
 Description: Определяет город поддомена. Внедряет "popup" уточнения города и "popup" выбора города
 Author: WebPRO
 Author URI: https://webprowww.github.io
-Version: 1.0.0
+Version: 1.0.1
 */
 
 use plugins\city\models\City;
@@ -18,11 +18,13 @@ global $city;
 add_action('init', function () {
 	global $city;
 	$city = City::findDomainCity();
-	if (isset($_COOKIE['city-confirmed']) and $_COOKIE['city-confirmed'] === $city->alias) {
+	if ($city->alias === 'index') {
+		$city->isConfirmed = true;
+	} elseif ( isset( $_COOKIE['city-confirmed'] ) and $_COOKIE['city-confirmed'] === $city->alias ) {
 		$city->isConfirmed = true;
 	} else {
 		$city->isConfirmed = false;
-		setcookie('city-confirmed', $city->alias, time() + (60 * 60 * 24 * 30 * 12), '/', City::rootDomain());
+		setcookie( 'city-confirmed', $city->alias, time() + ( 60 * 60 * 24 * 30 * 12 ), '/', City::rootDomain() );
 	}
 });
 
