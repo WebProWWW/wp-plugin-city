@@ -94,5 +94,8 @@ use plugins\city\models\City;
 
 $subName = City::subDomainName();
 
-echo $subName; // moskva если текущий url страницы http(s)://moskva.example.com
+echo $subName;
+// moskva если текущий url страницы http(s)://moskva.example.com
+// или
+// index если текущий url страницы http(s)://example.com
 ```
