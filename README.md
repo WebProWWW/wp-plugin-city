@@ -99,3 +99,89 @@ echo $subName;
 // или
 // index если текущий url страницы http(s)://example.com
 ```
+
+### Шаблон
+
+Плагин подключает в шаблон библиотеки `jQuery` `Fancybox` и встраивает в подвал следующий `html` код:
+
+```html
+<!-- ВАШ ГОРОД? -->
+<div class="is-city" id="is-city-confirm" style="display: none">
+    <p class="is-city-text">Ваш регион — Москва?</p>
+    <div class="is-city-actions">
+        <button class="is-city-btn is-city-btn-accept" data-fancybox-close>Всё верно</button>
+        <button class="is-city-btn is-city-btn-change" data-fancybox data-src="#cities">Выбрать другой</button>
+    </div>
+</div><!-- .modal -->
+<!-- / ВАШ ГОРОД? -->
+
+<!-- СПИСОК ГОРОДОВ -->
+<div class="search-city" id="cities" style="width: 100%; max-width: 900px; display: none">
+    <label class="search-city-label">Быстрый поиск города</label>
+    <div class="js-search-city">
+        <input class="search-city-input js-search-city-input" type="text" placeholder="Введите название своего города">
+        <div class="search-city-cities">
+
+            <div class="js-search-city-hide">
+                <p class="search-city-letter">
+                    А
+                </p>
+            </div>
+
+            <div class="search-city-item js-search-city-item">
+                <a class="search-city-link js-search-city-data" href="http(s)://abaza.example.com">
+                    Абаза
+                </a>
+            </div>
+
+            <div class="search-city-item js-search-city-item">
+                <a class="search-city-link js-search-city-data" href="http(s)://abakan.example.com">
+                    Абакан
+                </a>
+            </div>
+
+            ...
+
+            <div class="js-search-city-hide">
+                <p class="search-city-letter">
+                    Б
+                </p>
+            </div>
+
+            <div class="search-city-item js-search-city-item">
+                <a class="search-city-link js-search-city-data" href="http(s)://babaevo.example.com">
+                    Бабаево </a>
+            </div>
+
+            <div class="search-city-item js-search-city-item">
+                <a class="search-city-link js-search-city-data" href="http(s)://babushkin.example.com">
+                    Бабушкин </a>
+            </div>
+
+            ...
+
+        </div><!-- .search-city-cities -->
+    </div><!-- .js-search -->
+</div><!-- .modal -->
+<!-- / СПИСОК ГОРОДОВ -->
+
+<script>
+    Fancybox.bind('[data-src="#cities"]', {
+        on: {
+            init: function () {
+                Fancybox.close();
+            },
+        },
+    });
+</script>
+```
+
+Пример кнопки для открытия модального окна выбора/поиска города
+
+```html
+<button data-fancybox data-src="#cities">Выбрать город</button>
+
+или
+
+<a data-fancybox href="#cities">Выбрать город</a>
+```

@@ -32,7 +32,7 @@ global $city
 				<?php if ($cityLetter !== $letter): ?>
 					<?php $letter = $cityLetter ?>
                     <div class="js-search-city-hide">
-                        <p class="mb-2 fw-600"><?= $letter ?></p>
+                        <p class="search-city-letter"><?= $letter ?></p>
                     </div>
 				<?php endif; ?>
                 <div class="search-city-item js-search-city-item">
@@ -44,6 +44,7 @@ global $city
         </div><!-- .row -->
     </div><!-- .js-search -->
 </div><!-- .modal -->
+<!-- / СПИСОК ГОРОДОВ -->
 
 <script>
     // Fancybox.show([{ src: "#cities", type: "inline" }]);
