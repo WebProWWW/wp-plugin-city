@@ -31,4 +31,46 @@ class Region {
 		return new Region($region);
 	}
 
+	/**
+	 * @return Region[]
+	 */
+	public static function all() {
+		$out = [];
+		global $wpdb;
+		// wp_cache_delete('wp_all_cities');
+		$regions = wp_cache_get('wp_all_regions');
+		if (false === $regions) {
+			$table = $wpdb->prefix . 'region';
+			$regions = $wpdb->get_results("SELECT * FROM `$table`");
+			wp_cache_set('wp_all_regions', $regions);
+		}
+		if (is_array($regions)) {
+			foreach ($regions as $region) {
+				$out[] = new Region($region);
+			}
+		}
+		return $out;
+	}
+
+	/**
+	 * @return City[]
+	 */
+	public function cities() {
+		$out = [];
+		global $wpdb;
+//		 wp_cache_delete('wp_all_region_cities_' . $this->id);
+		$cities = wp_cache_get('wp_all_region_cities_' . $this->id);
+		if (false === $cities) {
+			$table = $wpdb->prefix . 'city';
+			$cities = $wpdb->get_results("SELECT * FROM {$table} WHERE region_id={$this->id} ORDER BY name");
+			wp_cache_set('wp_all_region_cities_' . $this->id, $cities);
+		}
+		if (is_array($cities)) {
+			foreach ($cities as $city) {
+				$out[] = new City($city);
+			}
+		}
+		return $out;
+	}
+
 }

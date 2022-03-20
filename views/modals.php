@@ -1,9 +1,26 @@
 <?php
 
-global $city
+global $city;
 /* @var $city plugins\city\models\City */
 
+$regions = plugins\city\models\Region::all();
+
 ?>
+
+<div style="padding: 15px">
+
+<?php foreach ( $regions as $region ): ?>
+    | **<?= $region->name ?>** | |<br>
+    <?php $cities = $region->cities() ?>
+    <?php foreach ( $cities as $iCity ): ?>
+
+    | <?= $iCity->alias ?>.domain.name | <?= $iCity->name ?> |<br>
+
+    <?php endforeach; ?>
+
+<?php endforeach; ?>
+</div>
+
 <!-- ВАШ ГОРОД? -->
 <div class="is-city" id="is-city-confirm" style="display: none">
     <p class="is-city-text">Ваш регион — <?= $city->name ?>?</p>
