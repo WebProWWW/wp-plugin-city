@@ -1,1202 +1,1202 @@
-| Поддомен | Название |
-|--------|----------|
-| **Республика Адыгея** | |
-| adygeysk.domain.name | Адыгейск |
-| maykop.domain.name | Майкоп |
-| **Республика Башкортостан** | |
-| agidel.domain.name | Агидель |
-| baymak.domain.name | Баймак |
-| belebey.domain.name | Белебей |
-| beloretsk.domain.name | Белорецк |
-| birsk.domain.name | Бирск |
-| blagoveschensk-bashkortostan.domain.name | Благовещенск (Республика Башкортостан) |
-| davlekanovo.domain.name | Давлеканово |
-| dyurtyuli.domain.name | Дюртюли |
-| ishimbay.domain.name | Ишимбай |
-| kumertau.domain.name | Кумертау |
-| mezhgore.domain.name | Межгорье |
-| meleuz.domain.name | Мелеуз |
-| neftekamsk.domain.name | Нефтекамск |
-| oktyabrskiy.domain.name | Октябрьский |
-| salavat.domain.name | Салават |
-| sibay.domain.name | Сибай |
-| sterlitamak.domain.name | Стерлитамак |
-| tuymazy.domain.name | Туймазы |
-| ufa.domain.name | Уфа |
-| uchaly.domain.name | Учалы |
-| yanaul.domain.name | Янаул |
-| **Республика Бурятия** | |
-| babushkin.domain.name | Бабушкин |
-| gusinoozersk.domain.name | Гусиноозёрск |
-| zakamensk.domain.name | Закаменск |
-| kyahta.domain.name | Кяхта |
-| severobaykalsk.domain.name | Северобайкальск |
-| ulan-ude.domain.name | Улан-Удэ |
-| **Республика Алтай** | |
-| aleysk.domain.name | Алейск |
-| barnaul.domain.name | Барнаул |
-| belokuriha.domain.name | Белокуриха |
-| biysk.domain.name | Бийск |
-| gorno-altaysk.domain.name | Горно-Алтайск |
-| gornyak.domain.name | Горняк |
-| zarinsk.domain.name | Заринск |
-| zmeinogorsk.domain.name | Змеиногорск |
-| kamen-na-obi.domain.name | Камень-на-Оби |
-| novoaltaysk.domain.name | Новоалтайск |
-| rubtsovsk.domain.name | Рубцовск |
-| slavgorod.domain.name | Славгород |
-| yarovoe.domain.name | Яровое |
-| **Республика Дагестан** | |
-| buynaksk.domain.name | Буйнакск |
-| dagestanskie-ogni.domain.name | Дагестанские Огни |
-| derbent.domain.name | Дербент |
-| izberbash.domain.name | Избербаш |
-| kaspiysk.domain.name | Каспийск |
-| kizilyurt.domain.name | Кизилюрт |
-| kizlyar.domain.name | Кизляр |
-| mahachkala.domain.name | Махачкала |
-| hasavyurt.domain.name | Хасавюрт |
-| yuzhno-suhokumsk.domain.name | Южно-Сухокумск |
-| **Республика Ингушетия** | |
-| karabulak.domain.name | Карабулак |
-| magas.domain.name | Магас |
-| malgobek.domain.name | Малгобек |
-| nazran.domain.name | Назрань |
-| sunzha.domain.name | Сунжа |
-| **Кабардино-Балкарская Республика** | |
-| baksan.domain.name | Баксан |
-| mayskiy.domain.name | Майский |
-| nalchik.domain.name | Нальчик |
-| nartkala.domain.name | Нарткала |
-| prohladnyy.domain.name | Прохладный |
-| terek.domain.name | Терек |
-| tyrnyauz.domain.name | Тырныауз |
-| chegem.domain.name | Чегем |
-| **Республика Калмыкия** | |
-| gorodovikovsk.domain.name | Городовиковск |
-| lagan.domain.name | Лагань |
-| elista.domain.name | Элиста |
-| **Карачаево-Черкесская Республика** | |
-| karachaevsk.domain.name | Карачаевск |
-| teberda.domain.name | Теберда |
-| ust-dzheguta.domain.name | Усть-Джегута |
-| cherkessk.domain.name | Черкесск |
-| **Республика Карелия** | |
-| belomorsk.domain.name | Беломорск |
-| kem.domain.name | Кемь |
-| kondopoga.domain.name | Кондопога |
-| kostomuksha.domain.name | Костомукша |
-| lahdenpohya.domain.name | Лахденпохья |
-| medvezhegorsk.domain.name | Медвежьегорск |
-| olonets.domain.name | Олонец |
-| petrozavodsk.domain.name | Петрозаводск |
-| pitkyaranta.domain.name | Питкяранта |
-| pudozh.domain.name | Пудож |
-| segezha.domain.name | Сегежа |
-| sortavala.domain.name | Сортавала |
-| suoyarvi.domain.name | Суоярви |
-| **Республика Коми** | |
-| vorkuta.domain.name | Воркута |
-| vuktyl.domain.name | Вуктыл |
-| emva.domain.name | Емва |
-| inta.domain.name | Инта |
-| mikun.domain.name | Микунь |
-| pechora.domain.name | Печора |
-| sosnogorsk.domain.name | Сосногорск |
-| syktyvkar.domain.name | Сыктывкар |
-| usinsk.domain.name | Усинск |
-| uhta.domain.name | Ухта |
-| **Республика Марий Эл** | |
-| volzhsk.domain.name | Волжск |
-| zvenigovo.domain.name | Звенигово |
-| yoshkar-ola.domain.name | Йошкар-Ола |
-| kozmodemyansk.domain.name | Козьмодемьянск |
-| **Республика Мордовия** | |
-| ardatov.domain.name | Ардатов |
-| insar.domain.name | Инсар |
-| kovylkino.domain.name | Ковылкино |
-| krasnoslobodsk-mordoviya.domain.name | Краснослободск (Республика Мордовия) |
-| ruzaevka.domain.name | Рузаевка |
-| saransk.domain.name | Саранск |
-| temnikov.domain.name | Темников |
-| **Республика Саха (Якутия)** | |
-| aldan.domain.name | Алдан |
-| verhoyansk.domain.name | Верхоянск |
-| vilyuysk.domain.name | Вилюйск |
-| lensk.domain.name | Ленск |
-| mirnyy-saxa.domain.name | Мирный (Республика Саха (Якутия)) |
-| neryungri.domain.name | Нерюнгри |
-| nyurba.domain.name | Нюрба |
-| olekminsk.domain.name | Олёкминск |
-| pokrovsk.domain.name | Покровск |
-| srednekolymsk.domain.name | Среднеколымск |
-| tommot.domain.name | Томмот |
-| udachnyy.domain.name | Удачный |
-| yakutsk.domain.name | Якутск |
-| **Республика Северная Осетия-Алания** | |
-| alagir.domain.name | Алагир |
-| ardon.domain.name | Ардон |
-| beslan.domain.name | Беслан |
-| vladikavkaz.domain.name | Владикавказ |
-| digora.domain.name | Дигора |
-| mozdok.domain.name | Моздок |
-| **Республика Татарстан** | |
-| agryz.domain.name | Агрыз |
-| aznakaevo.domain.name | Азнакаево |
-| almetevsk.domain.name | Альметьевск |
-| arsk.domain.name | Арск |
-| bavly.domain.name | Бавлы |
-| bolgar.domain.name | Болгар |
-| bugulma.domain.name | Бугульма |
-| buinsk.domain.name | Буинск |
-| elabuga.domain.name | Елабуга |
-| zainsk.domain.name | Заинск |
-| zelenodolsk.domain.name | Зеленодольск |
-| innopolis.domain.name | Иннополис |
-| kazan.domain.name | Казань |
-| kukmor.domain.name | Кукмор |
-| laishevo.domain.name | Лаишево |
-| leninogorsk.domain.name | Лениногорск |
-| mamadysh.domain.name | Мамадыш |
-| mendeleevsk.domain.name | Менделеевск |
-| menzelinsk.domain.name | Мензелинск |
-| naberezhnye-chelny.domain.name | Набережные Челны |
-| nizhnekamsk.domain.name | Нижнекамск |
-| nurlat.domain.name | Нурлат |
-| tetyushi.domain.name | Тетюши |
-| chistopol.domain.name | Чистополь |
-| **Республика Тыва** | |
-| ak-dovurak.domain.name | Ак-Довурак |
-| kyzyl.domain.name | Кызыл |
-| turan.domain.name | Туран |
-| chadan.domain.name | Чадан |
-| shagonar.domain.name | Шагонар |
-| **Удмуртская Республика** | |
-| votkinsk.domain.name | Воткинск |
-| glazov.domain.name | Глазов |
-| izhevsk.domain.name | Ижевск |
-| kambarka.domain.name | Камбарка |
-| mozhga.domain.name | Можга |
-| sarapul.domain.name | Сарапул |
-| **Республика Хакасия** | |
-| abaza.domain.name | Абаза |
-| abakan.domain.name | Абакан |
-| sayanogorsk.domain.name | Саяногорск |
-| sorsk.domain.name | Сорск |
-| chernogorsk.domain.name | Черногорск |
-| **Чеченская Республика** | |
-| argun.domain.name | Аргун |
-| groznyy.domain.name | Грозный |
-| gudermes.domain.name | Гудермес |
-| kurchaloy.domain.name | Курчалой |
-| urus-martan.domain.name | Урус-Мартан |
-| shali.domain.name | Шали |
-| **Чувашская Республика - Чувашия** | |
-| alatyr.domain.name | Алатырь |
-| kanash.domain.name | Канаш |
-| kozlovka.domain.name | Козловка |
-| mariinskiy-posad.domain.name | Мариинский Посад |
-| novocheboksarsk.domain.name | Новочебоксарск |
-| tsivilsk.domain.name | Цивильск |
-| cheboksary.domain.name | Чебоксары |
-| shumerlya.domain.name | Шумерля |
-| yadrin.domain.name | Ядрин |
-| **Алтайский край** | |
-| **Краснодарский край** | |
-| abinsk.domain.name | Абинск |
-| anapa.domain.name | Анапа |
-| apsheronsk.domain.name | Апшеронск |
-| armavir.domain.name | Армавир |
-| belorechensk.domain.name | Белореченск |
-| gelendzhik.domain.name | Геленджик |
-| goryachiy-klyuch.domain.name | Горячий Ключ |
-| gulkevichi.domain.name | Гулькевичи |
-| eysk.domain.name | Ейск |
-| korenovsk.domain.name | Кореновск |
-| krasnodar.domain.name | Краснодар |
-| kropotkin.domain.name | Кропоткин |
-| krymsk.domain.name | Крымск |
-| kurganinsk.domain.name | Курганинск |
-| labinsk.domain.name | Лабинск |
-| novokubansk.domain.name | Новокубанск |
-| novorossiysk.domain.name | Новороссийск |
-| primorsko-ahtarsk.domain.name | Приморско-Ахтарск |
-| slavyansk-na-kubani.domain.name | Славянск-на-Кубани |
-| sochi.domain.name | Сочи |
-| temryuk.domain.name | Темрюк |
-| timashevsk.domain.name | Тимашёвск |
-| tihoretsk.domain.name | Тихорецк |
-| tuapse.domain.name | Туапсе |
-| ust-labinsk.domain.name | Усть-Лабинск |
-| hadyzhensk.domain.name | Хадыженск |
-| **Красноярский край** | |
-| artemovsk.domain.name | Артёмовск |
-| achinsk.domain.name | Ачинск |
-| bogotol.domain.name | Боготол |
-| borodino.domain.name | Бородино |
-| divnogorsk.domain.name | Дивногорск |
-| dudinka.domain.name | Дудинка |
-| eniseysk.domain.name | Енисейск |
-| zheleznogorsk-krasnoyarskij.domain.name | Железногорск (Красноярский край) |
-| zaozernyy.domain.name | Заозёрный |
-| zelenogorsk.domain.name | Зеленогорск |
-| igarka.domain.name | Игарка |
-| ilanskiy.domain.name | Иланский |
-| kansk.domain.name | Канск |
-| kodinsk.domain.name | Кодинск |
-| krasnoyarsk.domain.name | Красноярск |
-| lesosibirsk.domain.name | Лесосибирск |
-| minusinsk.domain.name | Минусинск |
-| nazarovo.domain.name | Назарово |
-| norilsk.domain.name | Норильск |
-| sosnovoborsk.domain.name | Сосновоборск |
-| uzhur.domain.name | Ужур |
-| uyar.domain.name | Уяр |
-| sharypovo.domain.name | Шарыпово |
-| **Приморский край** | |
-| arsenev.domain.name | Арсеньев |
-| artem.domain.name | Артём |
-| bolshoy-kamen.domain.name | Большой Камень |
-| vladivostok.domain.name | Владивосток |
-| dalnegorsk.domain.name | Дальнегорск |
-| dalnerechensk.domain.name | Дальнереченск |
-| lesozavodsk.domain.name | Лесозаводск |
-| nahodka.domain.name | Находка |
-| partizansk.domain.name | Партизанск |
-| spassk-dalniy.domain.name | Спасск-Дальний |
-| ussuriysk.domain.name | Уссурийск |
-| fokino-primorskij.domain.name | Фокино (Приморский край) |
-| **Ставропольский край** | |
-| blagodarnyy.domain.name | Благодарный |
-| budennovsk.domain.name | Будённовск |
-| georgievsk.domain.name | Георгиевск |
-| essentuki.domain.name | Ессентуки |
-| zheleznovodsk.domain.name | Железноводск |
-| zelenokumsk.domain.name | Зеленокумск |
-| izobilnyy.domain.name | Изобильный |
-| ipatovo.domain.name | Ипатово |
-| kislovodsk.domain.name | Кисловодск |
-| lermontov.domain.name | Лермонтов |
-| mineralnye-vody.domain.name | Минеральные Воды |
-| mihaylovsk-stavropolskij.domain.name | Михайловск (Ставропольский край) |
-| nevinnomyssk.domain.name | Невинномысск |
-| neftekumsk.domain.name | Нефтекумск |
-| novoaleksandrovsk.domain.name | Новоалександровск |
-| novopavlovsk.domain.name | Новопавловск |
-| pyatigorsk.domain.name | Пятигорск |
-| svetlograd.domain.name | Светлоград |
-| stavropol.domain.name | Ставрополь |
-| **Хабаровский край и Еврейская автономная область** | |
-| amursk.domain.name | Амурск |
-| bikin.domain.name | Бикин |
-| birobidzhan.domain.name | Биробиджан |
-| vyazemskiy.domain.name | Вяземский |
-| komsomolsk-na-amure.domain.name | Комсомольск-на-Амуре |
-| nikolaevsk-na-amure.domain.name | Николаевск-на-Амуре |
-| obluche.domain.name | Облучье |
-| sovetskaya-gavan.domain.name | Советская Гавань |
-| habarovsk.domain.name | Хабаровск |
-| **Амурская область** | |
-| belogorsk-amurskaya.domain.name | Белогорск (Амурская область) |
-| blagoveschensk-amurskaya.domain.name | Благовещенск (Амурская область) |
-| zavitinsk.domain.name | Завитинск |
-| zeya.domain.name | Зея |
-| raychihinsk.domain.name | Райчихинск |
-| svobodnyy.domain.name | Свободный |
-| skovorodino.domain.name | Сковородино |
-| tynda.domain.name | Тында |
-| tsiolkovskiy.domain.name | Циолковский |
-| shimanovsk.domain.name | Шимановск |
-| **Архангельская область и Ненецкий АО** | |
-| arhangelsk.domain.name | Архангельск |
-| velsk.domain.name | Вельск |
-| kargopol.domain.name | Каргополь |
-| koryazhma.domain.name | Коряжма |
-| kotlas.domain.name | Котлас |
-| mezen.domain.name | Мезень |
-| mirnyy-arhangelskaya.domain.name | Мирный (Архангельская область) |
-| naryan-mar.domain.name | Нарьян-Мар |
-| novodvinsk.domain.name | Новодвинск |
-| nyandoma.domain.name | Няндома |
-| onega.domain.name | Онега |
-| severodvinsk.domain.name | Северодвинск |
-| solvychegodsk.domain.name | Сольвычегодск |
-| shenkursk.domain.name | Шенкурск |
-| **Астраханская область** | |
-| astrahan.domain.name | Астрахань |
-| ahtubinsk.domain.name | Ахтубинск |
-| znamensk.domain.name | Знаменск |
-| kamyzyak.domain.name | Камызяк |
-| narimanov.domain.name | Нариманов |
-| harabali.domain.name | Харабали |
-| **Белгородская область** | |
-| alekseevka.domain.name | Алексеевка |
-| belgorod.domain.name | Белгород |
-| biryuch.domain.name | Бирюч |
-| valuyki.domain.name | Валуйки |
-| grayvoron.domain.name | Грайворон |
-| gubkin.domain.name | Губкин |
-| korocha.domain.name | Короча |
-| novyy-oskol.domain.name | Новый Оскол |
-| staryy-oskol.domain.name | Старый Оскол |
-| stroitel.domain.name | Строитель |
-| shebekino.domain.name | Шебекино |
-| **Брянская область** | |
-| bryansk.domain.name | Брянск |
-| dyatkovo.domain.name | Дятьково |
-| zhukovka.domain.name | Жуковка |
-| zlynka.domain.name | Злынка |
-| karachev.domain.name | Карачев |
-| klintsy.domain.name | Клинцы |
-| mglin.domain.name | Мглин |
-| novozybkov.domain.name | Новозыбков |
-| pochep.domain.name | Почеп |
-| sevsk.domain.name | Севск |
-| seltso.domain.name | Сельцо |
-| starodub.domain.name | Стародуб |
-| surazh.domain.name | Сураж |
-| trubchevsk.domain.name | Трубчевск |
-| unecha.domain.name | Унеча |
-| fokino-bryanskaya.domain.name | Фокино (Брянская область) |
-| **Владимирская область** | |
-| aleksandrov.domain.name | Александров |
-| vladimir.domain.name | Владимир |
-| vyazniki.domain.name | Вязники |
-| gorohovets.domain.name | Гороховец |
-| gus-hrustalnyy.domain.name | Гусь-Хрустальный |
-| kameshkovo.domain.name | Камешково |
-| karabanovo.domain.name | Карабаново |
-| kirzhach.domain.name | Киржач |
-| kovrov.domain.name | Ковров |
-| kolchugino.domain.name | Кольчугино |
-| kosterevo.domain.name | Костерёво |
-| kurlovo.domain.name | Курлово |
-| lakinsk.domain.name | Лакинск |
-| melenki.domain.name | Меленки |
-| murom.domain.name | Муром |
-| petushki.domain.name | Петушки |
-| pokrov.domain.name | Покров |
-| raduzhnyy-vladimirskaya.domain.name | Радужный (Владимирская область) |
-| sobinka.domain.name | Собинка |
-| strunino.domain.name | Струнино |
-| sudogda.domain.name | Судогда |
-| suzdal.domain.name | Суздаль |
-| yurev-polskiy.domain.name | Юрьев-Польский |
-| **Волгоградская область** | |
-| volgograd.domain.name | Волгоград |
-| volzhskiy.domain.name | Волжский |
-| dubovka.domain.name | Дубовка |
-| zhirnovsk.domain.name | Жирновск |
-| kalach-na-donu.domain.name | Калач-на-Дону |
-| kamyshin.domain.name | Камышин |
-| kotelnikovo.domain.name | Котельниково |
-| kotovo.domain.name | Котово |
-| krasnoslobodsk-volgogradskaya.domain.name | Краснослободск (Волгоградская область) |
-| leninsk.domain.name | Ленинск |
-| mihaylovka.domain.name | Михайловка |
-| nikolaevsk.domain.name | Николаевск |
-| novoanninskiy.domain.name | Новоаннинский |
-| pallasovka.domain.name | Палласовка |
-| petrov-val.domain.name | Петров Вал |
-| serafimovich.domain.name | Серафимович |
-| surovikino.domain.name | Суровикино |
-| uryupinsk.domain.name | Урюпинск |
-| frolovo.domain.name | Фролово |
-| **Вологодская область** | |
-| babaevo.domain.name | Бабаево |
-| belozersk.domain.name | Белозерск |
-| velikiy-ustyug.domain.name | Великий Устюг |
-| vologda.domain.name | Вологда |
-| vytegra.domain.name | Вытегра |
-| gryazovets.domain.name | Грязовец |
-| kadnikov.domain.name | Кадников |
-| kirillov.domain.name | Кириллов |
-| krasavino.domain.name | Красавино |
-| nikolsk-vologodskaya.domain.name | Никольск (Вологодская область) |
-| sokol.domain.name | Сокол |
-| totma.domain.name | Тотьма |
-| ustyuzhna.domain.name | Устюжна |
-| harovsk.domain.name | Харовск |
-| cherepovets.domain.name | Череповец |
-| **Воронежская область** | |
-| bobrov.domain.name | Бобров |
-| boguchar.domain.name | Богучар |
-| borisoglebsk.domain.name | Борисоглебск |
-| buturlinovka.domain.name | Бутурлиновка |
-| voronezh.domain.name | Воронеж |
-| kalach.domain.name | Калач |
-| liski.domain.name | Лиски |
-| novovoronezh.domain.name | Нововоронеж |
-| novohopersk.domain.name | Новохопёрск |
-| ostrogozhsk.domain.name | Острогожск |
-| pavlovsk.domain.name | Павловск |
-| povorino.domain.name | Поворино |
-| rossosh.domain.name | Россошь |
-| semiluki.domain.name | Семилуки |
-| ertil.domain.name | Эртиль |
-| **Ивановская область** | |
-| vichuga.domain.name | Вичуга |
-| gavrilov-posad.domain.name | Гаврилов Посад |
-| zavolzhsk.domain.name | Заволжск |
-| ivanovo.domain.name | Иваново |
-| kineshma.domain.name | Кинешма |
-| komsomolsk.domain.name | Комсомольск |
-| kohma.domain.name | Кохма |
-| navoloki.domain.name | Наволоки |
-| ples.domain.name | Плёс |
-| privolzhsk.domain.name | Приволжск |
-| puchezh.domain.name | Пучеж |
-| rodniki.domain.name | Родники |
-| teykovo.domain.name | Тейково |
-| furmanov.domain.name | Фурманов |
-| shuya.domain.name | Шуя |
-| yuzha.domain.name | Южа |
-| yurevets.domain.name | Юрьевец |
-| **Иркутская область** | |
-| alzamay.domain.name | Алзамай |
-| angarsk.domain.name | Ангарск |
-| baykalsk.domain.name | Байкальск |
-| biryusinsk.domain.name | Бирюсинск |
-| bodaybo.domain.name | Бодайбо |
-| bratsk.domain.name | Братск |
-| vihorevka.domain.name | Вихоревка |
-| zheleznogorsk-ilimskiy.domain.name | Железногорск-Илимский |
-| zima.domain.name | Зима |
-| irkutsk.domain.name | Иркутск |
-| kirensk.domain.name | Киренск |
-| nizhneudinsk.domain.name | Нижнеудинск |
-| sayansk.domain.name | Саянск |
-| svirsk.domain.name | Свирск |
-| slyudyanka.domain.name | Слюдянка |
-| tayshet.domain.name | Тайшет |
-| tulun.domain.name | Тулун |
-| usole-sibirskoe.domain.name | Усолье-Сибирское |
-| ust-ilimsk.domain.name | Усть-Илимск |
-| ust-kut.domain.name | Усть-Кут |
-| cheremhovo.domain.name | Черемхово |
-| shelekhov.domain.name | Шелехов |
-| **Калининградская область** | |
-| bagrationovsk.domain.name | Багратионовск |
-| baltiysk.domain.name | Балтийск |
-| gvardeysk.domain.name | Гвардейск |
-| gurevsk-kaliningradskaya.domain.name | Гурьевск (Калининградская область) |
-| gusev.domain.name | Гусев |
-| zelenogradsk.domain.name | Зеленоградск |
-| kaliningrad.domain.name | Калининград |
-| krasnoznamensk-kaliningradskaya.domain.name | Краснознаменск (Калининградская область) |
-| ladushkin.domain.name | Ладушкин |
-| mamonovo.domain.name | Мамоново |
-| neman.domain.name | Неман |
-| nesterov.domain.name | Нестеров |
-| ozersk-kaliningradskaya.domain.name | Озёрск (Калининградская область) |
-| pionerskiy.domain.name | Пионерский |
-| polessk.domain.name | Полесск |
-| pravdinsk.domain.name | Правдинск |
-| primorsk-kaliningradskaya.domain.name | Приморск (Калининградская область) |
-| svetlogorsk.domain.name | Светлогорск |
-| svetlyy.domain.name | Светлый |
-| slavsk.domain.name | Славск |
-| sovetsk-kaliningradskaya.domain.name | Советск (Калининградская область) |
-| chernyahovsk.domain.name | Черняховск |
-| **Калужская область** | |
-| balabanovo.domain.name | Балабаново |
-| belousovo.domain.name | Белоусово |
-| borovsk.domain.name | Боровск |
-| ermolino.domain.name | Ермолино |
-| zhizdra.domain.name | Жиздра |
-| zhukov.domain.name | Жуков |
-| kaluga.domain.name | Калуга |
-| kirov-kaluzhskaya.domain.name | Киров (Калужская область) |
-| kozelsk.domain.name | Козельск |
-| kondrovo.domain.name | Кондрово |
-| kremenki.domain.name | Кремёнки |
-| lyudinovo.domain.name | Людиново |
-| maloyaroslavets.domain.name | Малоярославец |
-| medyn.domain.name | Медынь |
-| meschovsk.domain.name | Мещовск |
-| mosalsk.domain.name | Мосальск |
-| obninsk.domain.name | Обнинск |
-| sosenskiy.domain.name | Сосенский |
-| spas-demensk.domain.name | Спас-Деменск |
-| suhinichi.domain.name | Сухиничи |
-| tarusa.domain.name | Таруса |
-| yuhnov.domain.name | Юхнов |
-| **Камчатский край и Чукотский АО** | |
-| anadyr.domain.name | Анадырь |
-| bilibino.domain.name | Билибино |
-| vilyuchinsk.domain.name | Вилючинск |
-| elizovo.domain.name | Елизово |
-| pevek.domain.name | Певек |
-| petropavlovsk-kamchatskiy.domain.name | Петропавловск-Камчатский |
-| **Кемеровская область - Кузбасс** | |
-| anzhero-sudzhensk.domain.name | Анжеро-Судженск |
-| belovo.domain.name | Белово |
-| berezovskiy-kemerovskaya.domain.name | Берёзовский (Кемеровская область) |
-| gurevsk-kemerovskaya.domain.name | Гурьевск (Кемеровская область) |
-| kaltan.domain.name | Калтан |
-| kemerovo.domain.name | Кемерово |
-| kiselevsk.domain.name | Киселёвск |
-| leninsk-kuznetskiy.domain.name | Ленинск-Кузнецкий |
-| mariinsk.domain.name | Мариинск |
-| mezhdurechensk.domain.name | Междуреченск |
-| myski.domain.name | Мыски |
-| novokuznetsk.domain.name | Новокузнецк |
-| osinniki.domain.name | Осинники |
-| polysaevo.domain.name | Полысаево |
-| prokopevsk.domain.name | Прокопьевск |
-| salair.domain.name | Салаир |
-| tayga.domain.name | Тайга |
-| tashtagol.domain.name | Таштагол |
-| topki.domain.name | Топки |
-| yurga.domain.name | Юрга |
-| **Кировская область** | |
-| belaya-holunitsa.domain.name | Белая Холуница |
-| vyatskie-polyany.domain.name | Вятские Поляны |
-| zuevka.domain.name | Зуевка |
-| kirov-kirovskaya.domain.name | Киров (Кировская область) |
-| kirovo-chepetsk.domain.name | Кирово-Чепецк |
-| kirs.domain.name | Кирс |
-| kotelnich.domain.name | Котельнич |
-| luza.domain.name | Луза |
-| malmyzh.domain.name | Малмыж |
-| murashi.domain.name | Мураши |
-| nolinsk.domain.name | Нолинск |
-| omutninsk.domain.name | Омутнинск |
-| orlov.domain.name | Орлов |
-| slobodskoy.domain.name | Слободской |
-| sovetsk-kirovskaya.domain.name | Советск (Кировская область) |
-| sosnovka.domain.name | Сосновка |
-| urzhum.domain.name | Уржум |
-| yaransk.domain.name | Яранск |
-| **Костромская область** | |
-| buy.domain.name | Буй |
-| volgorechensk.domain.name | Волгореченск |
-| galich.domain.name | Галич |
-| kologriv.domain.name | Кологрив |
-| kostroma.domain.name | Кострома |
-| makarev.domain.name | Макарьев |
-| manturovo.domain.name | Мантурово |
-| nerekhta.domain.name | Нерехта |
-| neya.domain.name | Нея |
-| soligalich.domain.name | Солигалич |
-| chuhloma.domain.name | Чухлома |
-| sharya.domain.name | Шарья |
-| **Курганская область** | |
-| dalmatovo.domain.name | Далматово |
-| kataysk.domain.name | Катайск |
-| kurgan.domain.name | Курган |
-| kurtamysh.domain.name | Куртамыш |
-| makushino.domain.name | Макушино |
-| petuhovo.domain.name | Петухово |
-| shadrinsk.domain.name | Шадринск |
-| shumiha.domain.name | Шумиха |
-| schuche.domain.name | Щучье |
-| **Курская область** | |
-| dmitriev.domain.name | Дмитриев |
-| zheleznogorsk-kurskaya.domain.name | Железногорск (Курская область) |
-| kursk.domain.name | Курск |
-| kurchatov.domain.name | Курчатов |
-| lgov.domain.name | Льгов |
-| oboyan.domain.name | Обоянь |
-| rylsk.domain.name | Рыльск |
-| sudzha.domain.name | Суджа |
-| fatezh.domain.name | Фатеж |
-| schigry.domain.name | Щигры |
-| **Ленинградская область** | |
-| boksitogorsk.domain.name | Бокситогорск |
-| volosovo.domain.name | Волосово |
-| volhov.domain.name | Волхов |
-| vsevolozhsk.domain.name | Всеволожск |
-| vyborg.domain.name | Выборг |
-| vysotsk.domain.name | Высоцк |
-| gatchina.domain.name | Гатчина |
-| ivangorod.domain.name | Ивангород |
-| kamennogorsk.domain.name | Каменногорск |
-| kingisepp.domain.name | Кингисепп |
-| kirishi.domain.name | Кириши |
-| kirovsk-leningradskaya.domain.name | Кировск (Ленинградская область) |
-| kommunar.domain.name | Коммунар |
-| kudrovo.domain.name | Кудрово |
-| lodeynoe-pole.domain.name | Лодейное Поле |
-| luga.domain.name | Луга |
-| lyuban.domain.name | Любань |
-| murino.domain.name | Мурино |
-| nikolskoe.domain.name | Никольское |
-| novaya-ladoga.domain.name | Новая Ладога |
-| otradnoe.domain.name | Отрадное |
-| pikalevo.domain.name | Пикалёво |
-| podporozhe.domain.name | Подпорожье |
-| primorsk-leningradskaya.domain.name | Приморск (Ленинградская область) |
-| priozersk.domain.name | Приозерск |
-| svetogorsk.domain.name | Светогорск |
-| sertolovo.domain.name | Сертолово |
-| slantsy.domain.name | Сланцы |
-| sosnovyy-bor.domain.name | Сосновый Бор |
-| syasstroy.domain.name | Сясьстрой |
-| tihvin.domain.name | Тихвин |
-| tosno.domain.name | Тосно |
-| shlisselburg.domain.name | Шлиссельбург |
-| **Липецкая область** | |
-| gryazi.domain.name | Грязи |
-| dankov.domain.name | Данков |
-| elets.domain.name | Елец |
-| zadonsk.domain.name | Задонск |
-| lebedyan.domain.name | Лебедянь |
-| lipetsk.domain.name | Липецк |
-| usman.domain.name | Усмань |
-| chaplygin.domain.name | Чаплыгин |
-| **Магаданская область** | |
-| magadan.domain.name | Магадан |
-| susuman.domain.name | Сусуман |
-| **Московская область** | |
-| aprelevka.domain.name | Апрелевка |
-| balashiha.domain.name | Балашиха |
-| beloozerskiy.domain.name | Белоозёрский |
-| bronnitsy.domain.name | Бронницы |
-| vereya.domain.name | Верея |
-| vidnoe.domain.name | Видное |
-| volokolamsk.domain.name | Волоколамск |
-| voskresensk.domain.name | Воскресенск |
-| vysokovsk.domain.name | Высоковск |
-| golitsyno.domain.name | Голицыно |
-| dedovsk.domain.name | Дедовск |
-| dzerzhinskiy.domain.name | Дзержинский |
-| dmitrov.domain.name | Дмитров |
-| dolgoprudnyy.domain.name | Долгопрудный |
-| domodedovo.domain.name | Домодедово |
-| drezna.domain.name | Дрезна |
-| dubna.domain.name | Дубна |
-| egorevsk.domain.name | Егорьевск |
-| zhukovskiy.domain.name | Жуковский |
-| zaraysk.domain.name | Зарайск |
-| zvenigorod.domain.name | Звенигород |
-| ivanteevka.domain.name | Ивантеевка |
-| istra.domain.name | Истра |
-| kashira.domain.name | Кашира |
-| klin.domain.name | Клин |
-| kolomna.domain.name | Коломна |
-| korolev.domain.name | Королёв |
-| kotelniki.domain.name | Котельники |
-| krasnoarmeysk-moskovskaya.domain.name | Красноармейск (Московская область) |
-| krasnogorsk.domain.name | Красногорск |
-| krasnozavodsk.domain.name | Краснозаводск |
-| krasnoznamensk-moskovskaya.domain.name | Краснознаменск (Московская область) |
-| kubinka.domain.name | Кубинка |
-| kurovskoe.domain.name | Куровское |
-| likino-dulevo.domain.name | Ликино-Дулёво |
-| lobnya.domain.name | Лобня |
-| losino-petrovskiy.domain.name | Лосино-Петровский |
-| luhovitsy.domain.name | Луховицы |
-| lytkarino.domain.name | Лыткарино |
-| lyubertsy.domain.name | Люберцы |
-| mozhaysk.domain.name | Можайск |
-| mytischi.domain.name | Мытищи |
-| naro-fominsk.domain.name | Наро-Фоминск |
-| noginsk.domain.name | Ногинск |
-| odintsovo.domain.name | Одинцово |
-| ozery.domain.name | Озёры |
-| orekhovo-zuevo.domain.name | Орехово-Зуево |
-| pavlovskiy-posad.domain.name | Павловский Посад |
-| peresvet.domain.name | Пересвет |
-| podolsk.domain.name | Подольск |
-| protvino.domain.name | Протвино |
-| pushkino.domain.name | Пушкино |
-| puschino.domain.name | Пущино |
-| ramenskoe.domain.name | Раменское |
-| reutov.domain.name | Реутов |
-| roshal.domain.name | Рошаль |
-| ruza.domain.name | Руза |
-| sergiev-posad.domain.name | Сергиев Посад |
-| serpuhov.domain.name | Серпухов |
-| solnechnogorsk.domain.name | Солнечногорск |
-| staraya-kupavna.domain.name | Старая Купавна |
-| stupino.domain.name | Ступино |
-| taldom.domain.name | Талдом |
-| fryazino.domain.name | Фрязино |
-| himki.domain.name | Химки |
-| hotkovo.domain.name | Хотьково |
-| chernogolovka.domain.name | Черноголовка |
-| chekhov.domain.name | Чехов |
-| shatura.domain.name | Шатура |
-| schelkovo.domain.name | Щёлково |
-| elektrogorsk.domain.name | Электрогорск |
-| elektrostal.domain.name | Электросталь |
-| elektrougli.domain.name | Электроугли |
-| yahroma.domain.name | Яхрома |
-| **Мурманская область** | |
-| apatity.domain.name | Апатиты |
-| gadzhievo.domain.name | Гаджиево |
-| zaozersk.domain.name | Заозёрск |
-| zapolyarnyy.domain.name | Заполярный |
-| kandalaksha.domain.name | Кандалакша |
-| kirovsk-murmanskaya.domain.name | Кировск (Мурманская область) |
-| kovdor.domain.name | Ковдор |
-| kola.domain.name | Кола |
-| monchegorsk.domain.name | Мончегорск |
-| murmansk.domain.name | Мурманск |
-| olenegorsk.domain.name | Оленегорск |
-| ostrovnoy.domain.name | Островной |
-| polyarnye-zori.domain.name | Полярные Зори |
-| polyarnyy.domain.name | Полярный |
-| severomorsk.domain.name | Североморск |
-| snezhnogorsk.domain.name | Снежногорск |
-| **Нижегородская область** | |
-| arzamas.domain.name | Арзамас |
-| balahna.domain.name | Балахна |
-| bogorodsk.domain.name | Богородск |
-| bor.domain.name | Бор |
-| vetluga.domain.name | Ветлуга |
-| volodarsk.domain.name | Володарск |
-| vorsma.domain.name | Ворсма |
-| vyksa.domain.name | Выкса |
-| gorbatov.domain.name | Горбатов |
-| gorodets.domain.name | Городец |
-| dzerzhinsk.domain.name | Дзержинск |
-| zavolzhe.domain.name | Заволжье |
-| knyaginino.domain.name | Княгинино |
-| kstovo.domain.name | Кстово |
-| kulebaki.domain.name | Кулебаки |
-| lukoyanov.domain.name | Лукоянов |
-| lyskovo.domain.name | Лысково |
-| navashino.domain.name | Навашино |
-| nizhniy-novgorod.domain.name | Нижний Новгород |
-| pavlovo.domain.name | Павлово |
-| pervomaysk.domain.name | Первомайск |
-| perevoz.domain.name | Перевоз |
-| sarov.domain.name | Саров |
-| semenov.domain.name | Семёнов |
-| sergach.domain.name | Сергач |
-| uren.domain.name | Урень |
-| chkalovsk.domain.name | Чкаловск |
-| shahunya.domain.name | Шахунья |
-| **Новгородская область** | |
-| borovichi.domain.name | Боровичи |
-| valday.domain.name | Валдай |
-| velikiy-novgorod.domain.name | Великий Новгород |
-| malaya-vishera.domain.name | Малая Вишера |
-| okulovka.domain.name | Окуловка |
-| pestovo.domain.name | Пестово |
-| soltsy.domain.name | Сольцы |
-| staraya-russa.domain.name | Старая Русса |
-| holm.domain.name | Холм |
-| chudovo.domain.name | Чудово |
-| **Новосибирская область** | |
-| barabinsk.domain.name | Барабинск |
-| berdsk.domain.name | Бердск |
-| bolotnoe.domain.name | Болотное |
-| iskitim.domain.name | Искитим |
-| karasuk.domain.name | Карасук |
-| kargat.domain.name | Каргат |
-| kuybyshev.domain.name | Куйбышев |
-| kupino.domain.name | Купино |
-| novosibirsk.domain.name | Новосибирск |
-| ob.domain.name | Обь |
-| tatarsk.domain.name | Татарск |
-| toguchin.domain.name | Тогучин |
-| cherepanovo.domain.name | Черепаново |
-| chulym.domain.name | Чулым |
-| **Омская область** | |
-| isilkul.domain.name | Исилькуль |
-| kalachinsk.domain.name | Калачинск |
-| nazyvaevsk.domain.name | Называевск |
-| omsk.domain.name | Омск |
-| tara.domain.name | Тара |
-| tyukalinsk.domain.name | Тюкалинск |
-| **Оренбургская область** | |
-| abdulino.domain.name | Абдулино |
-| buguruslan.domain.name | Бугуруслан |
-| buzuluk.domain.name | Бузулук |
-| gay.domain.name | Гай |
-| kuvandyk.domain.name | Кувандык |
-| mednogorsk.domain.name | Медногорск |
-| novotroitsk.domain.name | Новотроицк |
-| orenburg.domain.name | Оренбург |
-| orsk.domain.name | Орск |
-| sol-iletsk.domain.name | Соль-Илецк |
-| sorochinsk.domain.name | Сорочинск |
-| yasnyy.domain.name | Ясный |
-| **Орловская область** | |
-| bolhov.domain.name | Болхов |
-| dmitrovsk.domain.name | Дмитровск |
-| livny.domain.name | Ливны |
-| maloarhangelsk.domain.name | Малоархангельск |
-| mtsensk.domain.name | Мценск |
-| novosil.domain.name | Новосиль |
-| orel.domain.name | Орёл |
-| **Пензенская область** | |
-| belinskiy.domain.name | Белинский |
-| gorodische.domain.name | Городище |
-| zarechnyy-penzenskaya.domain.name | Заречный (Пензенская область) |
-| kamenka.domain.name | Каменка |
-| kuznetsk.domain.name | Кузнецк |
-| nizhniy-lomov.domain.name | Нижний Ломов |
-| nikolsk-penzenskaya.domain.name | Никольск (Пензенская область) |
-| penza.domain.name | Пенза |
-| serdobsk.domain.name | Сердобск |
-| spassk.domain.name | Спасск |
-| sursk.domain.name | Сурск |
-| **Пермский край** | |
-| aleksandrovsk.domain.name | Александровск |
-| berezniki.domain.name | Березники |
-| vereschagino.domain.name | Верещагино |
-| gornozavodsk.domain.name | Горнозаводск |
-| gremyachinsk.domain.name | Гремячинск |
-| gubaha.domain.name | Губаха |
-| dobryanka.domain.name | Добрянка |
-| kizel.domain.name | Кизел |
-| krasnovishersk.domain.name | Красновишерск |
-| krasnokamsk.domain.name | Краснокамск |
-| kudymkar.domain.name | Кудымкар |
-| kungur.domain.name | Кунгур |
-| lysva.domain.name | Лысьва |
-| nytva.domain.name | Нытва |
-| osa.domain.name | Оса |
-| ohansk.domain.name | Оханск |
-| ocher.domain.name | Очёр |
-| perm.domain.name | Пермь |
-| solikamsk.domain.name | Соликамск |
-| usole.domain.name | Усолье |
-| chaykovskiy.domain.name | Чайковский |
-| cherdyn.domain.name | Чердынь |
-| chermoz.domain.name | Чёрмоз |
-| chernushka.domain.name | Чернушка |
-| chusovoy.domain.name | Чусовой |
-| **Псковская область** | |
-| velikie-luki.domain.name | Великие Луки |
-| gdov.domain.name | Гдов |
-| dno.domain.name | Дно |
-| nevel.domain.name | Невель |
-| novorzhev.domain.name | Новоржев |
-| novosokolniki.domain.name | Новосокольники |
-| opochka.domain.name | Опочка |
-| ostrov.domain.name | Остров |
-| pechory.domain.name | Печоры |
-| porhov.domain.name | Порхов |
-| pskov.domain.name | Псков |
-| pustoshka.domain.name | Пустошка |
-| pytalovo.domain.name | Пыталово |
-| sebezh.domain.name | Себеж |
-| **Ростовская область** | |
-| azov.domain.name | Азов |
-| aksay.domain.name | Аксай |
-| bataysk.domain.name | Батайск |
-| belaya-kalitva.domain.name | Белая Калитва |
-| volgodonsk.domain.name | Волгодонск |
-| gukovo.domain.name | Гуково |
-| donetsk.domain.name | Донецк |
-| zverevo.domain.name | Зверево |
-| zernograd.domain.name | Зерноград |
-| kamensk-shahtinskiy.domain.name | Каменск-Шахтинский |
-| konstantinovsk.domain.name | Константиновск |
-| krasnyy-sulin.domain.name | Красный Сулин |
-| millerovo.domain.name | Миллерово |
-| morozovsk.domain.name | Морозовск |
-| novocherkassk.domain.name | Новочеркасск |
-| novoshahtinsk.domain.name | Новошахтинск |
-| proletarsk.domain.name | Пролетарск |
-| rostov-na-donu.domain.name | Ростов-на-Дону |
-| salsk.domain.name | Сальск |
-| semikarakorsk.domain.name | Семикаракорск |
-| taganrog.domain.name | Таганрог |
-| tsimlyansk.domain.name | Цимлянск |
-| shahty.domain.name | Шахты |
-| **Рязанская область** | |
-| kasimov.domain.name | Касимов |
-| korablino.domain.name | Кораблино |
-| mihaylov.domain.name | Михайлов |
-| novomichurinsk.domain.name | Новомичуринск |
-| rybnoe.domain.name | Рыбное |
-| ryazhsk.domain.name | Ряжск |
-| ryazan.domain.name | Рязань |
-| sasovo.domain.name | Сасово |
-| skopin.domain.name | Скопин |
-| spas-klepiki.domain.name | Спас-Клепики |
-| spassk-ryazanskiy.domain.name | Спасск-Рязанский |
-| shatsk.domain.name | Шацк |
-| **Самарская область** | |
-| zhigulevsk.domain.name | Жигулёвск |
-| kinel.domain.name | Кинель |
-| neftegorsk.domain.name | Нефтегорск |
-| novokuybyshevsk.domain.name | Новокуйбышевск |
-| oktyabrsk.domain.name | Октябрьск |
-| otradnyy.domain.name | Отрадный |
-| pohvistnevo.domain.name | Похвистнево |
-| samara.domain.name | Самара |
-| syzran.domain.name | Сызрань |
-| tolyatti.domain.name | Тольятти |
-| chapaevsk.domain.name | Чапаевск |
-| **Саратовская область** | |
-| arkadak.domain.name | Аркадак |
-| atkarsk.domain.name | Аткарск |
-| balakovo.domain.name | Балаково |
-| balashov.domain.name | Балашов |
-| volsk.domain.name | Вольск |
-| ershov.domain.name | Ершов |
-| kalininsk.domain.name | Калининск |
-| krasnoarmeysk-saratovskaya.domain.name | Красноармейск (Саратовская область) |
-| krasnyy-kut.domain.name | Красный Кут |
-| marks.domain.name | Маркс |
-| novouzensk.domain.name | Новоузенск |
-| petrovsk.domain.name | Петровск |
-| pugachev.domain.name | Пугачёв |
-| rtischevo.domain.name | Ртищево |
-| saratov.domain.name | Саратов |
-| hvalynsk.domain.name | Хвалынск |
-| shihany.domain.name | Шиханы |
-| engels.domain.name | Энгельс |
-| **Сахалинская область** | |
-| aleksandrovsk-sahalinskiy.domain.name | Александровск-Сахалинский |
-| aniva.domain.name | Анива |
-| dolinsk.domain.name | Долинск |
-| korsakov.domain.name | Корсаков |
-| kurilsk.domain.name | Курильск |
-| makarov.domain.name | Макаров |
-| nevelsk.domain.name | Невельск |
-| oha.domain.name | Оха |
-| poronaysk.domain.name | Поронайск |
-| severo-kurilsk.domain.name | Северо-Курильск |
-| tomari.domain.name | Томари |
-| uglegorsk.domain.name | Углегорск |
-| holmsk.domain.name | Холмск |
-| yuzhno-sahalinsk.domain.name | Южно-Сахалинск |
-| **Свердловская область** | |
-| alapaevsk.domain.name | Алапаевск |
-| aramil.domain.name | Арамиль |
-| artemovskiy.domain.name | Артёмовский |
-| asbest.domain.name | Асбест |
-| berezovskiy-sverdlovskaya.domain.name | Берёзовский (Свердловская область) |
-| bogdanovich.domain.name | Богданович |
-| verhniy-tagil.domain.name | Верхний Тагил |
-| verhnyaya-pyshma.domain.name | Верхняя Пышма |
-| verhnyaya-salda.domain.name | Верхняя Салда |
-| verhnyaya-tura.domain.name | Верхняя Тура |
-| verhoture.domain.name | Верхотурье |
-| volchansk.domain.name | Волчанск |
-| degtyarsk.domain.name | Дегтярск |
-| ekaterinburg.domain.name | Екатеринбург |
-| zarechnyy-sverdlovskaya.domain.name | Заречный (Свердловская область) |
-| ivdel.domain.name | Ивдель |
-| irbit.domain.name | Ирбит |
-| kamensk-uralskiy.domain.name | Каменск-Уральский |
-| kamyshlov.domain.name | Камышлов |
-| karpinsk.domain.name | Карпинск |
-| kachkanar.domain.name | Качканар |
-| kirovgrad.domain.name | Кировград |
-| krasnoturinsk.domain.name | Краснотурьинск |
-| krasnouralsk.domain.name | Красноуральск |
-| krasnoufimsk.domain.name | Красноуфимск |
-| kushva.domain.name | Кушва |
-| lesnoy.domain.name | Лесной |
-| mihaylovsk-sverdlovskaya.domain.name | Михайловск (Свердловская область) |
-| nevyansk.domain.name | Невьянск |
-| nizhnie-sergi.domain.name | Нижние Серги |
-| nizhniy-tagil.domain.name | Нижний Тагил |
-| nizhnyaya-salda.domain.name | Нижняя Салда |
-| nizhnyaya-tura.domain.name | Нижняя Тура |
-| novaya-lyalya.domain.name | Новая Ляля |
-| novouralsk.domain.name | Новоуральск |
-| pervouralsk.domain.name | Первоуральск |
-| polevskoy.domain.name | Полевской |
-| revda.domain.name | Ревда |
-| rezh.domain.name | Реж |
-| severouralsk.domain.name | Североуральск |
-| serov.domain.name | Серов |
-| sredneuralsk.domain.name | Среднеуральск |
-| suhoy-log.domain.name | Сухой Лог |
-| sysert.domain.name | Сысерть |
-| tavda.domain.name | Тавда |
-| talitsa.domain.name | Талица |
-| turinsk.domain.name | Туринск |
-| **Смоленская область** | |
-| velizh.domain.name | Велиж |
-| vyazma.domain.name | Вязьма |
-| gagarin.domain.name | Гагарин |
-| demidov.domain.name | Демидов |
-| desnogorsk.domain.name | Десногорск |
-| dorogobuzh.domain.name | Дорогобуж |
-| duhovschina.domain.name | Духовщина |
-| elnya.domain.name | Ельня |
-| pochinok.domain.name | Починок |
-| roslavl.domain.name | Рославль |
-| rudnya.domain.name | Рудня |
-| safonovo.domain.name | Сафоново |
-| smolensk.domain.name | Смоленск |
-| sychevka.domain.name | Сычёвка |
-| yartsevo.domain.name | Ярцево |
-| **Тамбовская область** | |
-| zherdevka.domain.name | Жердевка |
-| kirsanov.domain.name | Кирсанов |
-| kotovsk.domain.name | Котовск |
-| michurinsk.domain.name | Мичуринск |
-| morshansk.domain.name | Моршанск |
-| rasskazovo.domain.name | Рассказово |
-| tambov.domain.name | Тамбов |
-| uvarovo.domain.name | Уварово |
-| **Тверская область** | |
-| andreapol.domain.name | Андреаполь |
-| bezhetsk.domain.name | Бежецк |
-| belyy.domain.name | Белый |
-| bologoe.domain.name | Бологое |
-| vesegonsk.domain.name | Весьегонск |
-| vyshniy-volochek.domain.name | Вышний Волочёк |
-| zapadnaya-dvina.domain.name | Западная Двина |
-| zubtsov.domain.name | Зубцов |
-| kalyazin.domain.name | Калязин |
-| kashin.domain.name | Кашин |
-| kimry.domain.name | Кимры |
-| konakovo.domain.name | Конаково |
-| krasnyy-holm.domain.name | Красный Холм |
-| kuvshinovo.domain.name | Кувшиново |
-| lihoslavl.domain.name | Лихославль |
-| nelidovo.domain.name | Нелидово |
-| ostashkov.domain.name | Осташков |
-| rzhev.domain.name | Ржев |
-| staritsa.domain.name | Старица |
-| tver.domain.name | Тверь |
-| torzhok.domain.name | Торжок |
-| toropets.domain.name | Торопец |
-| udomlya.domain.name | Удомля |
-| **Томская область** | |
-| asino.domain.name | Асино |
-| kedrovyy.domain.name | Кедровый |
-| kolpashevo.domain.name | Колпашево |
-| seversk.domain.name | Северск |
-| strezhevoy.domain.name | Стрежевой |
-| tomsk.domain.name | Томск |
-| **Тульская область** | |
-| aleksin.domain.name | Алексин |
-| belev.domain.name | Белёв |
-| bogoroditsk.domain.name | Богородицк |
-| bolohovo.domain.name | Болохово |
-| venev.domain.name | Венёв |
-| donskoy.domain.name | Донской |
-| efremov.domain.name | Ефремов |
-| kimovsk.domain.name | Кимовск |
-| kireevsk.domain.name | Киреевск |
-| lipki.domain.name | Липки |
-| novomoskovsk.domain.name | Новомосковск |
-| plavsk.domain.name | Плавск |
-| sovetsk-tulskaya.domain.name | Советск (Тульская область) |
-| suvorov.domain.name | Суворов |
-| tula.domain.name | Тула |
-| uzlovaya.domain.name | Узловая |
-| chekalin.domain.name | Чекалин |
-| schekino.domain.name | Щёкино |
-| yasnogorsk.domain.name | Ясногорск |
-| **Тюменская область** | |
-| zavodoukovsk.domain.name | Заводоуковск |
-| ishim.domain.name | Ишим |
-| tobolsk.domain.name | Тобольск |
-| tyumen.domain.name | Тюмень |
-| yalutorovsk.domain.name | Ялуторовск |
-| **Ульяновская область** | |
-| barysh.domain.name | Барыш |
-| dimitrovgrad.domain.name | Димитровград |
-| inza.domain.name | Инза |
-| novoulyanovsk.domain.name | Новоульяновск |
-| sengiley.domain.name | Сенгилей |
-| ulyanovsk.domain.name | Ульяновск |
-| **Челябинская область** | |
-| asha.domain.name | Аша |
-| bakal.domain.name | Бакал |
-| verhneuralsk.domain.name | Верхнеуральск |
-| verhniy-ufaley.domain.name | Верхний Уфалей |
-| emanzhelinsk.domain.name | Еманжелинск |
-| zlatoust.domain.name | Златоуст |
-| karabash.domain.name | Карабаш |
-| kartaly.domain.name | Карталы |
-| kasli.domain.name | Касли |
-| katav-ivanovsk.domain.name | Катав-Ивановск |
-| kopeysk.domain.name | Копейск |
-| korkino.domain.name | Коркино |
-| kusa.domain.name | Куса |
-| kyshtym.domain.name | Кыштым |
-| magnitogorsk.domain.name | Магнитогорск |
-| miass.domain.name | Миасс |
-| minyar.domain.name | Миньяр |
-| nyazepetrovsk.domain.name | Нязепетровск |
-| ozersk-chelyabinskaya.domain.name | Озёрск (Челябинская область) |
-| plast.domain.name | Пласт |
-| satka.domain.name | Сатка |
-| sim.domain.name | Сим |
-| snezhinsk.domain.name | Снежинск |
-| trekhgornyy.domain.name | Трёхгорный |
-| troitsk.domain.name | Троицк |
-| ust-katav.domain.name | Усть-Катав |
-| chebarkul.domain.name | Чебаркуль |
-| chelyabinsk.domain.name | Челябинск |
-| yuzhnouralsk.domain.name | Южноуральск |
-| yuryuzan.domain.name | Юрюзань |
-| **Забайкальский край** | |
-| baley.domain.name | Балей |
-| borzya.domain.name | Борзя |
-| krasnokamensk.domain.name | Краснокаменск |
-| mogocha.domain.name | Могоча |
-| nerchinsk.domain.name | Нерчинск |
-| petrovsk-zabaykalskiy.domain.name | Петровск-Забайкальский |
-| sretensk.domain.name | Сретенск |
-| hilok.domain.name | Хилок |
-| chita.domain.name | Чита |
-| shilka.domain.name | Шилка |
-| **Ярославская область** | |
-| gavrilov-yam.domain.name | Гаврилов-Ям |
-| danilov.domain.name | Данилов |
-| lyubim.domain.name | Любим |
-| myshkin.domain.name | Мышкин |
-| pereslavl-zalesskiy.domain.name | Переславль-Залесский |
-| poshekhone.domain.name | Пошехонье |
-| rostov.domain.name | Ростов |
-| rybinsk.domain.name | Рыбинск |
-| tutaev.domain.name | Тутаев |
-| uglich.domain.name | Углич |
-| yaroslavl.domain.name | Ярославль |
-| **Москва** | |
-| moskva.domain.name | Москва |
-| **Санкт-Петербург** | |
-| sankt-peterburg.domain.name | Санкт-Петербург |
-| **Республика Крым** | |
-| alupka.domain.name | Алупка |
-| alushta.domain.name | Алушта |
-| armyansk.domain.name | Армянск |
-| bahchisaray.domain.name | Бахчисарай |
-| belogorsk-krym.domain.name | Белогорск (Крым) |
-| dzhankoy.domain.name | Джанкой |
-| evpatoriya.domain.name | Евпатория |
-| kerch.domain.name | Керчь |
-| krasnoperekopsk.domain.name | Красноперекопск |
-| saki.domain.name | Саки |
-| simferopol.domain.name | Симферополь |
-| staryy-krym.domain.name | Старый Крым |
-| sudak.domain.name | Судак |
-| feodosiya.domain.name | Феодосия |
-| schelkino.domain.name | Щёлкино |
-| yalta.domain.name | Ялта |
-| **Ханты-Мансийский АО-Югра** | |
-| beloyarskiy.domain.name | Белоярский |
-| kogalym.domain.name | Когалым |
-| langepas.domain.name | Лангепас |
-| lyantor.domain.name | Лянтор |
-| megion.domain.name | Мегион |
-| nefteyugansk.domain.name | Нефтеюганск |
-| nizhnevartovsk.domain.name | Нижневартовск |
-| nyagan.domain.name | Нягань |
-| pokachi.domain.name | Покачи |
-| pyt-yah.domain.name | Пыть-Ях |
-| raduzhnyy-hanty-mansijskij.domain.name | Радужный (Ханты-Мансийский АО) |
-| sovetskiy.domain.name | Советский |
-| surgut.domain.name | Сургут |
-| uray.domain.name | Урай |
-| hanty-mansiysk.domain.name | Ханты-Мансийск |
-| yugorsk.domain.name | Югорск |
-| **Чукотский АО** | |
-| **Ямало-Ненецкий АО** | |
-| gubkinskiy.domain.name | Губкинский |
-| labytnangi.domain.name | Лабытнанги |
-| muravlenko.domain.name | Муравленко |
-| nadym.domain.name | Надым |
-| novyy-urengoy.domain.name | Новый Уренгой |
-| noyabrsk.domain.name | Ноябрьск |
-| salekhard.domain.name | Салехард |
-| tarko-sale.domain.name | Тарко-Сале |
-| **Севастополь** | |
-| sevastopol.domain.name | Севастополь |
+| Псевдоним | Название | Cклонение                                 |
+|---|---|-------------------------------------------|
+| **Республика Адыгея** | |                                           |
+| adygeysk | Адыгейск | Адыгейске                                 |
+| maykop | Майкоп | Майкопе                                   |
+| **Республика Башкортостан** | |                                           |
+| agidel | Агидель | Агиделе                                   |
+| baymak | Баймак | Баймаке                                   |
+| belebey | Белебей | Белебее                                   |
+| beloretsk | Белорецк | Белорецке                                 |
+| birsk | Бирск | Бирске                                    |
+| blagoveschensk-bashkortostan | Благовещенск (Республика Башкортостан) | Благовещенске (Республика Башкортостан)   |
+| davlekanovo | Давлеканово | Давлеканово                               |
+| dyurtyuli | Дюртюли | Дюртюлях                                  |
+| ishimbay | Ишимбай | Ишимбае                                   |
+| kumertau | Кумертау | Кумертау                                  |
+| mezhgore | Межгорье | Межгорье                                  |
+| meleuz | Мелеуз | Мелеузе                                   |
+| neftekamsk | Нефтекамск | Нефтекамске                               |
+| oktyabrskiy | Октябрьский | Октябрьском                               |
+| salavat | Салават | Салавате                                  |
+| sibay | Сибай | Сибае                                     |
+| sterlitamak | Стерлитамак | Стерлитамаке                              |
+| tuymazy | Туймазы | Туймазах                                  |
+| ufa | Уфа | Уфе                                       |
+| uchaly | Учалы | Учалах                                    |
+| yanaul | Янаул | Янауле                                    |
+| **Республика Бурятия** | |                                           |
+| babushkin | Бабушкин | Бабушкине                                 |
+| gusinoozersk | Гусиноозёрск | Гусиноозёрске                             |
+| zakamensk | Закаменск | Закаменске                                |
+| kyahta | Кяхта | Кяхте                                     |
+| severobaykalsk | Северобайкальск | Северобайкальске                          |
+| ulan-ude | Улан-Удэ | Улан-Удэ                                  |
+| **Республика Алтай** | |                                           |
+| aleysk | Алейск | Алейске                                   |
+| barnaul | Барнаул | Барнауле                                  |
+| belokuriha | Белокуриха | Белокурихе                                |
+| biysk | Бийск | Бийске                                    |
+| gorno-altaysk | Горно-Алтайск | Горно-Алтайске                            |
+| gornyak | Горняк | Горняке                                   |
+| zarinsk | Заринск | Заринске                                  |
+| zmeinogorsk | Змеиногорск | Змеиногорске                              |
+| kamen-na-obi | Камень-на-Оби | Каменке-на-Оби                            |
+| novoaltaysk | Новоалтайск | Новоалтайске                              |
+| rubtsovsk | Рубцовск | Рубцовске                                 |
+| slavgorod | Славгород | Славгороде                                |
+| yarovoe | Яровое | Яровое                                    |
+| **Республика Дагестан** | |                                           |
+| buynaksk | Буйнакск | Буйнакске                                 |
+| dagestanskie-ogni | Дагестанские Огни | Дагестанских Огнях                        |
+| derbent | Дербент | Дербенте                                  |
+| izberbash | Избербаш | Избербаше                                 |
+| kaspiysk | Каспийск | Каспийске                                 |
+| kizilyurt | Кизилюрт | Кизилюрте                                 |
+| kizlyar | Кизляр | Кизляре                                   |
+| mahachkala | Махачкала | Махачкале                                 |
+| hasavyurt | Хасавюрт | Хасавюрте                                 |
+| yuzhno-suhokumsk | Южно-Сухокумск | Южно-Сухокумске                           |
+| **Республика Ингушетия** | |                                           |
+| karabulak | Карабулак | Карабулаке                                |
+| magas | Магас | Магасе                                    |
+| malgobek | Малгобек | Малгобеке                                 |
+| nazran | Назрань | Назрани                                   |
+| sunzha | Сунжа | Сунже                                     |
+| **Кабардино-Балкарская Республика** | |                                           |
+| baksan | Баксан | Баксане                                   |
+| mayskiy | Майский | Майском                                   |
+| nalchik | Нальчик | Нальчике                                  |
+| nartkala | Нарткала | Нарткале                                  |
+| prohladnyy | Прохладный | Прохладном                                |
+| terek | Терек | Тереке                                    |
+| tyrnyauz | Тырныауз | Тырныаузе                                 |
+| chegem | Чегем | Чегеме                                    |
+| **Республика Калмыкия** | |                                           |
+| gorodovikovsk | Городовиковск | Городовиковске                            |
+| lagan | Лагань | Лагане                                    |
+| elista | Элиста | Элисте                                    |
+| **Карачаево-Черкесская Республика** | |                                           |
+| karachaevsk | Карачаевск | Карачаевске                               |
+| teberda | Теберда | Теберде                                   |
+| ust-dzheguta | Усть-Джегута | Усть-Джегуте                              |
+| cherkessk | Черкесск | Черкесске                                 |
+| **Республика Карелия** | |                                           |
+| belomorsk | Беломорск | Беломорске                                |
+| kem | Кемь | Кемь                                      |
+| kondopoga | Кондопога | Кондопоге                                 |
+| kostomuksha | Костомукша | Костомукше                                |
+| lahdenpohya | Лахденпохья | Лахденпохья                               |
+| medvezhegorsk | Медвежьегорск | Медвежьегорске                            |
+| olonets | Олонец | Олонеце                                   |
+| petrozavodsk | Петрозаводск | Петрозаводске                             |
+| pitkyaranta | Питкяранта | Питкяранте                                |
+| pudozh | Пудож | Пудоже                                    |
+| segezha | Сегежа | Сегеже                                    |
+| sortavala | Сортавала | Сортавале                                 |
+| suoyarvi | Суоярви | Суоярви                                   |
+| **Республика Коми** | |                                           |
+| vorkuta | Воркута | Воркуте                                   |
+| vuktyl | Вуктыл | Вуктыле                                   |
+| emva | Емва | Емва                                      |
+| inta | Инта | Инте                                      |
+| mikun | Микунь | Микуне                                    |
+| pechora | Печора | Печора                                    |
+| sosnogorsk | Сосногорск | Сосногорске                               |
+| syktyvkar | Сыктывкар | Сыктывкаре                                |
+| usinsk | Усинск | Усинске                                   |
+| uhta | Ухта | Ухте                                      |
+| **Республика Марий Эл** | |                                           |
+| volzhsk | Волжск | Волжске                                   |
+| zvenigovo | Звенигово | Звенигово                                 |
+| yoshkar-ola | Йошкар-Ола | Йошкар-Оле                                |
+| kozmodemyansk | Козьмодемьянск | Козьмодемьянске                           |
+| **Республика Мордовия** | |                                           |
+| ardatov | Ардатов | Ардатове                                  |
+| insar | Инсар | Инсаре                                    |
+| kovylkino | Ковылкино | Ковылкино                                 |
+| krasnoslobodsk-mordoviya | Краснослободск (Республика Мордовия) | Краснослободске (Республика Мордовия)     |
+| ruzaevka | Рузаевка | Рузаевке                                  |
+| saransk | Саранск | Саранске                                  |
+| temnikov | Темников | Темникове                                 |
+| **Республика Саха (Якутия)** | |                                           |
+| aldan | Алдан | Алдане                                    |
+| verhoyansk | Верхоянск | Верхоянске                                |
+| vilyuysk | Вилюйск | Вилюйске                                  |
+| lensk | Ленск | Ленске                                    |
+| mirnyy-saxa | Мирный (Республика Саха (Якутия)) | Мирном (Республика Саха (Якутия))         |
+| neryungri | Нерюнгри | Нерюнгри                                  |
+| nyurba | Нюрба | Нюрбе                                     |
+| olekminsk | Олёкминск | Олёкминске                                |
+| pokrovsk | Покровск | Покровске                                 |
+| srednekolymsk | Среднеколымск | Среднеколымске                            |
+| tommot | Томмот | Томмоте                                   |
+| udachnyy | Удачный | Удачном                                   |
+| yakutsk | Якутск | Якутске                                   |
+| **Республика Северная Осетия-Алания** | |                                           |
+| alagir | Алагир | Алагире                                   |
+| ardon | Ардон | Ардоне                                    |
+| beslan | Беслан | Беслане                                   |
+| vladikavkaz | Владикавказ | Владикавказе                              |
+| digora | Дигора | Дигоре                                    |
+| mozdok | Моздок | Моздоке                                   |
+| **Республика Татарстан** | |                                           |
+| agryz | Агрыз | Аргызе                                    |
+| aznakaevo | Азнакаево | Азнакаево                                 |
+| almetevsk | Альметьевск | Альметьевске                              |
+| arsk | Арск | Арске                                     |
+| bavly | Бавлы | Балви                                     |
+| bolgar | Болгар | Болгаре                                   |
+| bugulma | Бугульма | Бугульме                                  |
+| buinsk | Буинск | Буинске                                   |
+| elabuga | Елабуга | Елабуге                                   |
+| zainsk | Заинск | Заинске                                   |
+| zelenodolsk | Зеленодольск | Зеленодольске                             |
+| innopolis | Иннополис | Иннополисе                                |
+| kazan | Казань | Казани                                    |
+| kukmor | Кукмор | Кукморе                                   |
+| laishevo | Лаишево | Лаишево                                   |
+| leninogorsk | Лениногорск | Лениногорске                              |
+| mamadysh | Мамадыш | Мамадыше                                  |
+| mendeleevsk | Менделеевск | Менделеевске                              |
+| menzelinsk | Мензелинск | Мензелинске                               |
+| naberezhnye-chelny | Набережные Челны | Набережных Челнах                         |
+| nizhnekamsk | Нижнекамск | Нижнекамске                               |
+| nurlat | Нурлат | Нурлате                                   |
+| tetyushi | Тетюши | Тетюшах                                   |
+| chistopol | Чистополь | Чистополе                                 |
+| **Республика Тыва** | |                                           |
+| ak-dovurak | Ак-Довурак | Ак-Довураке                               |
+| kyzyl | Кызыл | Кызыле                                    |
+| turan | Туран | Туране                                    |
+| chadan | Чадан | Чадане                                    |
+| shagonar | Шагонар | Шагонаре                                  |
+| **Удмуртская Республика** | |                                           |
+| votkinsk | Воткинск | Воткинске                                 |
+| glazov | Глазов | Глазове                                   |
+| izhevsk | Ижевск | Ижевске                                   |
+| kambarka | Камбарка | Камбарке                                  |
+| mozhga | Можга | Можге                                     |
+| sarapul | Сарапул | Сарапуле                                  |
+| **Республика Хакасия** | |                                           |
+| abaza | Абаза | Абазе                                     |
+| abakan | Абакан | Абакане                                   |
+| sayanogorsk | Саяногорск | Саяногорске                               |
+| sorsk | Сорск | Сорске                                    |
+| chernogorsk | Черногорск | Черногорске                               |
+| **Чеченская Республика** | |                                           |
+| argun | Аргун | Аргуне                                    |
+| groznyy | Грозный | Грозном                                   |
+| gudermes | Гудермес | Гудермесе                                 |
+| kurchaloy | Курчалой | Курчалой                                  |
+| urus-martan | Урус-Мартан | Урус-Мартане                              |
+| shali | Шали | Шали                                      |
+| **Чувашская Республика - Чувашия** | |                                           |
+| alatyr | Алатырь | Алатыре                                   |
+| kanash | Канаш | Канаше                                    |
+| kozlovka | Козловка | Козловке                                  |
+| mariinskiy-posad | Мариинский Посад | Мариинском Посаде                         |
+| novocheboksarsk | Новочебоксарск | Новочебоксарске                           |
+| tsivilsk | Цивильск | Цивильске                                 |
+| cheboksary | Чебоксары | Чебоксарах                                |
+| shumerlya | Шумерля | Шумерле                                   |
+| yadrin | Ядрин | Ядрине                                    |
+| **Алтайский край** | |                                           |
+| **Краснодарский край** | |                                           |
+| abinsk | Абинск | Абинске                                   |
+| anapa | Анапа | Анапе                                     |
+| apsheronsk | Апшеронск | Апшеронске                                |
+| armavir | Армавир | Армавире                                  |
+| belorechensk | Белореченск | Белореченске                              |
+| gelendzhik | Геленджик | Геленджике                                |
+| goryachiy-klyuch | Горячий Ключ | Горячем Ключе                             |
+| gulkevichi | Гулькевичи | Гулькевичах                               |
+| eysk | Ейск | Ейске                                     |
+| korenovsk | Кореновск | Кореновске                                |
+| krasnodar | Краснодар | Краснодаре                                |
+| kropotkin | Кропоткин | Кропоткине                                |
+| krymsk | Крымск | Крымске                                   |
+| kurganinsk | Курганинск | Курганинске                               |
+| labinsk | Лабинск | Лабинске                                  |
+| novokubansk | Новокубанск | Новокубанске                              |
+| novorossiysk | Новороссийск | Новороссийске                             |
+| primorsko-ahtarsk | Приморско-Ахтарск | Приморско-Ахтарске                        |
+| slavyansk-na-kubani | Славянск-на-Кубани | Славянске-на-Кубани                       |
+| sochi | Сочи | Сочи                                      |
+| temryuk | Темрюк | Темрюке                                   |
+| timashevsk | Тимашёвск | Тимашёвске                                |
+| tihoretsk | Тихорецк | Тихорецке                                 |
+| tuapse | Туапсе | Туапсе                                    |
+| ust-labinsk | Усть-Лабинск | Усть-Лабинске                             |
+| hadyzhensk | Хадыженск | Хадыженске                                |
+| **Красноярский край** | |                                           |
+| artemovsk | Артёмовск | Артёмовске                                |
+| achinsk | Ачинск | Ачинске                                   |
+| bogotol | Боготол | Боготоле                                  |
+| borodino | Бородино | Бородино                                  |
+| divnogorsk | Дивногорск | Дивногорске                               |
+| dudinka | Дудинка | Дудинке                                   |
+| eniseysk | Енисейск | Енисейске                                 |
+| zheleznogorsk-krasnoyarskij | Железногорск (Красноярский край) | Железногорске (Красноярский край)         |
+| zaozernyy | Заозёрный | Заозёрном                                 |
+| zelenogorsk | Зеленогорск | Зеленогорске                              |
+| igarka | Игарка | Игарке                                    |
+| ilanskiy | Иланский | Иланском                                  |
+| kansk | Канск | Канске                                    |
+| kodinsk | Кодинск | Кодинске                                  |
+| krasnoyarsk | Красноярск | Красноярске                               |
+| lesosibirsk | Лесосибирск | Лесосибирске                              |
+| minusinsk | Минусинск | Минусинске                                |
+| nazarovo | Назарово | Назарово                                  |
+| norilsk | Норильск | Норильске                                 |
+| sosnovoborsk | Сосновоборск | Сосновоборске                             |
+| uzhur | Ужур | Ужуре                                     |
+| uyar | Уяр | Уяре                                      |
+| sharypovo | Шарыпово | Шарыпово                                  |
+| **Приморский край** | |                                           |
+| arsenev | Арсеньев | Арсеньеве                                 |
+| artem | Артём | Артёме                                    |
+| bolshoy-kamen | Большой Камень | Большом Камне                             |
+| vladivostok | Владивосток | Владивостоке                              |
+| dalnegorsk | Дальнегорск | Дальнегорске                              |
+| dalnerechensk | Дальнереченск | Дальнереченске                            |
+| lesozavodsk | Лесозаводск | Лесозаводске                              |
+| nahodka | Находка | Находке                                   |
+| partizansk | Партизанск | Партизанске                               |
+| spassk-dalniy | Спасск-Дальний | Спасске-Дальнем                           |
+| ussuriysk | Уссурийск | Уссурийске                                |
+| fokino-primorskij | Фокино (Приморский край) | Фокино (Приморский край)                  |
+| **Ставропольский край** | |                                           |
+| blagodarnyy | Благодарный | Благодарном                               |
+| budennovsk | Будённовск | Будённовске                               |
+| georgievsk | Георгиевск | Георгиевске                               |
+| essentuki | Ессентуки | Ессентуках                                |
+| zheleznovodsk | Железноводск | Железноводске                             |
+| zelenokumsk | Зеленокумск | Зеленокумске                              |
+| izobilnyy | Изобильный | Изобильном                                |
+| ipatovo | Ипатово | Ипатово                                   |
+| kislovodsk | Кисловодск | Кисловодске                               |
+| lermontov | Лермонтов | Лермонтове                                |
+| mineralnye-vody | Минеральные Воды | Минеральных Водах                         |
+| mihaylovsk-stavropolskij | Михайловск (Ставропольский край) | Михайловске (Ставропольский край)         |
+| nevinnomyssk | Невинномысск | Невинномысске                             |
+| neftekumsk | Нефтекумск | Нефтекумске                               |
+| novoaleksandrovsk | Новоалександровск | Новоалександровске                        |
+| novopavlovsk | Новопавловск | Новопавловске                             |
+| pyatigorsk | Пятигорск | Пятигорске                                |
+| svetlograd | Светлоград | Светлограде                               |
+| stavropol | Ставрополь | Ставрополе                                |
+| **Хабаровский край и Еврейская автономная область** | |                                           |
+| amursk | Амурск | Амурске                                   |
+| bikin | Бикин | Бикине                                    |
+| birobidzhan | Биробиджан | Биробиджане                               |
+| vyazemskiy | Вяземский | Вяземском                                 |
+| komsomolsk-na-amure | Комсомольск-на-Амуре | Комсомольске-на-Амуре                     |
+| nikolaevsk-na-amure | Николаевск-на-Амуре | Николаевске-на-Амуре                      |
+| obluche | Облучье | Облучье                                   |
+| sovetskaya-gavan | Советская Гавань | Советской Гавани                          |
+| habarovsk | Хабаровск | Хабаровске                                |
+| **Амурская область** | |                                           |
+| belogorsk-amurskaya | Белогорск (Амурская область) | Белогорске (Амурская область)             |
+| blagoveschensk-amurskaya | Благовещенск (Амурская область) | Благовещенске (Амурская область)          |
+| zavitinsk | Завитинск | Завитинске                                |
+| zeya | Зея | Зее                                       |
+| raychihinsk | Райчихинск | Райчихинске                               |
+| svobodnyy | Свободный | Свободном                                 |
+| skovorodino | Сковородино | Сковородино                               |
+| tynda | Тында | Тынде                                     |
+| tsiolkovskiy | Циолковский | Циолковском                               |
+| shimanovsk | Шимановск | Шимановске                                |
+| **Архангельская область и Ненецкий АО** | |                                           |
+| arhangelsk | Архангельск | Архангельске                              |
+| velsk | Вельск | Вельске                                   |
+| kargopol | Каргополь | Каргополе                                 |
+| koryazhma | Коряжма | Коряжме                                   |
+| kotlas | Котлас | Котласе                                   |
+| mezen | Мезень | Мезени                                    |
+| mirnyy-arhangelskaya | Мирный (Архангельская область) | Мирном (Архангельская область)            |
+| naryan-mar | Нарьян-Мар | Нарьян-Маре                               |
+| novodvinsk | Новодвинск | Новодвинске                               |
+| nyandoma | Няндома | Няндоме                                   |
+| onega | Онега | Онеге                                     |
+| severodvinsk | Северодвинск | Северодвинске                             |
+| solvychegodsk | Сольвычегодск | Сольвычегодске                            |
+| shenkursk | Шенкурск | Шенкурске                                 |
+| **Астраханская область** | |                                           |
+| astrahan | Астрахань | Астрахани                                 |
+| ahtubinsk | Ахтубинск | Ахтубинске                                |
+| znamensk | Знаменск | Знаменске                                 |
+| kamyzyak | Камызяк | Камызяке                                  |
+| narimanov | Нариманов | Нариманове                                |
+| harabali | Харабали | Харабали                                  |
+| **Белгородская область** | |                                           |
+| alekseevka | Алексеевка | Алексеевке                                |
+| belgorod | Белгород | Белгороде                                 |
+| biryuch | Бирюч | Бирюче                                    |
+| valuyki | Валуйки | Валуйках                                  |
+| grayvoron | Грайворон | Грайвороне                                |
+| gubkin | Губкин | Губкине                                   |
+| korocha | Короча | Короче                                    |
+| novyy-oskol | Новый Оскол | Новом Осколе                              |
+| staryy-oskol | Старый Оскол | Старом Осколе                             |
+| stroitel | Строитель | Строителе                                 |
+| shebekino | Шебекино | Шебекино                                  |
+| **Брянская область** | |                                           |
+| bryansk | Брянск | Брянске                                   |
+| dyatkovo | Дятьково | Дятьково                                  |
+| zhukovka | Жуковка | Жуковке                                   |
+| zlynka | Злынка | Злынке                                    |
+| karachev | Карачев | Карачеве                                  |
+| klintsy | Клинцы | Клинцах                                   |
+| mglin | Мглин | Мглине                                    |
+| novozybkov | Новозыбков | Новозыбкове                               |
+| pochep | Почеп | Почепе                                    |
+| sevsk | Севск | Севске                                    |
+| seltso | Сельцо | Сельцо                                    |
+| starodub | Стародуб | Стародубе                                 |
+| surazh | Сураж | Сураже                                    |
+| trubchevsk | Трубчевск | Трубчевске                                |
+| unecha | Унеча | Унече                                     |
+| fokino-bryanskaya | Фокино (Брянская область) | Фокино (Брянская область)                 |
+| **Владимирская область** | |                                           |
+| aleksandrov | Александров | Александрове                              |
+| vladimir | Владимир | Владимире                                 |
+| vyazniki | Вязники | Вязниках                                  |
+| gorohovets | Гороховец | Гороховце                                 |
+| gus-hrustalnyy | Гусь-Хрустальный | Гусь-Хрустальном                          |
+| kameshkovo | Камешково | Камешкове                                 |
+| karabanovo | Карабаново | Карабаново                                |
+| kirzhach | Киржач | Киржаче                                   |
+| kovrov | Ковров | Коврове                                   |
+| kolchugino | Кольчугино | Кольчугино                                |
+| kosterevo | Костерёво | Костерёво                                 |
+| kurlovo | Курлово | Курлово                                   |
+| lakinsk | Лакинск | Лакинске                                  |
+| melenki | Меленки | Меленках                                  |
+| murom | Муром | Муроме                                    |
+| petushki | Петушки | Петушках                                  |
+| pokrov | Покров | Покрове                                   |
+| raduzhnyy-vladimirskaya | Радужный (Владимирская область) | Радужном (Владимирская область)           |
+| sobinka | Собинка | Собинке                                   |
+| strunino | Струнино | Струнино                                  |
+| sudogda | Судогда | Судогде                                   |
+| suzdal | Суздаль | Суздале                                   |
+| yurev-polskiy | Юрьев-Польский | Юрьев-Польском                            |
+| **Волгоградская область** | |                                           |
+| volgograd | Волгоград | Волгограде                                |
+| volzhskiy | Волжский | Волжском                                  |
+| dubovka | Дубовка | Дубовке                                   |
+| zhirnovsk | Жирновск | Жирновске                                 |
+| kalach-na-donu | Калач-на-Дону | Калаче-на-Дону                            |
+| kamyshin | Камышин | Камышине                                  |
+| kotelnikovo | Котельниково | Котельниково                              |
+| kotovo | Котово | Котово                                    |
+| krasnoslobodsk-volgogradskaya | Краснослободск (Волгоградская область) | Краснослободске (Волгоградская область)   |
+| leninsk | Ленинск | Ленинске                                  |
+| mihaylovka | Михайловка | Михайловке                                |
+| nikolaevsk | Николаевск | Николаевске                               |
+| novoanninskiy | Новоаннинский | Новоаннинском                             |
+| pallasovka | Палласовка | Палласовке                                |
+| petrov-val | Петров Вал | Петров Вале                               |
+| serafimovich | Серафимович | Серафимовиче                              |
+| surovikino | Суровикино | Суровикино                                |
+| uryupinsk | Урюпинск | Урюпинске                                 |
+| frolovo | Фролово | Фролово                                   |
+| **Вологодская область** | |                                           |
+| babaevo | Бабаево | Бабаево                                   |
+| belozersk | Белозерск | Белозерске                                |
+| velikiy-ustyug | Великий Устюг | Великом Устюге                            |
+| vologda | Вологда | Вологде                                   |
+| vytegra | Вытегра | Вытегре                                   |
+| gryazovets | Грязовец | Грязовце                                  |
+| kadnikov | Кадников | Кадникове                                 |
+| kirillov | Кириллов | Кириллове                                 |
+| krasavino | Красавино | Красавино                                 |
+| nikolsk-vologodskaya | Никольск (Вологодская область) | Никольске (Вологодская область)           |
+| sokol | Сокол | Соколе                                    |
+| totma | Тотьма | Тотьме                                    |
+| ustyuzhna | Устюжна | Устюжне                                   |
+| harovsk | Харовск | Харовске                                  |
+| cherepovets | Череповец | Череповце                                 |
+| **Воронежская область** | |                                           |
+| bobrov | Бобров | Боброве                                   |
+| boguchar | Богучар | Богучаре                                  |
+| borisoglebsk | Борисоглебск | Борисоглебске                             |
+| buturlinovka | Бутурлиновка | Бутурлиновке                              |
+| voronezh | Воронеж | Воронеже                                  |
+| kalach | Калач | Калаче                                    |
+| liski | Лиски | Лисках                                    |
+| novovoronezh | Нововоронеж | Нововоронеже                              |
+| novohopersk | Новохопёрск | Новохопёрске                              |
+| ostrogozhsk | Острогожск | Острогожске                               |
+| pavlovsk | Павловск | Павловске                                 |
+| povorino | Поворино | Поворино                                  |
+| rossosh | Россошь | Россоше                                   |
+| semiluki | Семилуки | Семилуках                                 |
+| ertil | Эртиль | Эртиле                                    |
+| **Ивановская область** | |                                           |
+| vichuga | Вичуга | Вичуге                                    |
+| gavrilov-posad | Гаврилов Посад | Гаврилов Посаде                           |
+| zavolzhsk | Заволжск | Заволжске                                 |
+| ivanovo | Иваново | Иваново                                   |
+| kineshma | Кинешма | Кинешме                                   |
+| komsomolsk | Комсомольск | Комсомольске                              |
+| kohma | Кохма | Кохме                                     |
+| navoloki | Наволоки | Наволоках                                 |
+| ples | Плёс | Плёсе                                     |
+| privolzhsk | Приволжск | Приволжске                                |
+| puchezh | Пучеж | Пучеже                                    |
+| rodniki | Родники | Родниках                                  |
+| teykovo | Тейково | Тейково                                   |
+| furmanov | Фурманов | Фурманове                                 |
+| shuya | Шуя | Шуе                                       |
+| yuzha | Южа | Юже                                       |
+| yurevets | Юрьевец | Юрьевце                                   |
+| **Иркутская область** | |                                           |
+| alzamay | Алзамай | Алзамае                                   |
+| angarsk | Ангарск | Ангарске                                  |
+| baykalsk | Байкальск | Байкальске                                |
+| biryusinsk | Бирюсинск | Бирюсинске                                |
+| bodaybo | Бодайбо | Бодайбо                                   |
+| bratsk | Братск | Братске                                   |
+| vihorevka | Вихоревка | Вихоревке                                 |
+| zheleznogorsk-ilimskiy | Железногорск-Илимский | Железногорск-Илимском                     |
+| zima | Зима | Зиме                                      |
+| irkutsk | Иркутск | Иркутске                                  |
+| kirensk | Киренск | Киренске                                  |
+| nizhneudinsk | Нижнеудинск | Нижнеудинске                              |
+| sayansk | Саянск | Саянске                                   |
+| svirsk | Свирск | Свирске                                   |
+| slyudyanka | Слюдянка | Слюдянке                                  |
+| tayshet | Тайшет | Тайшете                                   |
+| tulun | Тулун | Тулуне                                    |
+| usole-sibirskoe | Усолье-Сибирское | Усолье-Сибирском                          |
+| ust-ilimsk | Усть-Илимск | Усть-Илимске                              |
+| ust-kut | Усть-Кут | Усть-Куте                                 |
+| cheremhovo | Черемхово | Черемхово                                 |
+| shelekhov | Шелехов | Шелехове                                  |
+| **Калининградская область** | |                                           |
+| bagrationovsk | Багратионовск | Багратионовске                            |
+| baltiysk | Балтийск | Балтийске                                 |
+| gvardeysk | Гвардейск | Гвардейске                                |
+| gurevsk-kaliningradskaya | Гурьевск (Калининградская область) | Гурьевске (Калининградская область)       |
+| gusev | Гусев | Гусеве                                    |
+| zelenogradsk | Зеленоградск | Зеленоградске                             |
+| kaliningrad | Калининград | Калининграде                              |
+| krasnoznamensk-kaliningradskaya | Краснознаменск (Калининградская область) | Краснознаменске (Калининградская область) |
+| ladushkin | Ладушкин | Ладушкине                                 |
+| mamonovo | Мамоново | Мамоново                                  |
+| neman | Неман | Немане                                    |
+| nesterov | Нестеров | Нестерове                                 |
+| ozersk-kaliningradskaya | Озёрск (Калининградская область) | Озёрске (Калининградская область)         |
+| pionerskiy | Пионерский | Пионерском                                |
+| polessk | Полесск | Полесске                                  |
+| pravdinsk | Правдинск | Правдинске                                |
+| primorsk-kaliningradskaya | Приморск (Калининградская область) | Приморске (Калининградская область)       |
+| svetlogorsk | Светлогорск | Светлогорске                              |
+| svetlyy | Светлый | Светлом                                   |
+| slavsk | Славск | Славске                                   |
+| sovetsk-kaliningradskaya | Советск (Калининградская область) | Советске (Калининградская область)        |
+| chernyahovsk | Черняховск | Черняховске                               |
+| **Калужская область** | |                                           |
+| balabanovo | Балабаново | Балабаново                                |
+| belousovo | Белоусово | Белоусово                                 |
+| borovsk | Боровск | Боровске                                  |
+| ermolino | Ермолино | Ермолине                                  |
+| zhizdra | Жиздра | Жиздре                                    |
+| zhukov | Жуков | Жукове                                    |
+| kaluga | Калуга | Калуге                                    |
+| kirov-kaluzhskaya | Киров (Калужская область) | Кирове (Калужская область)                |
+| kozelsk | Козельск | Козельске                                 |
+| kondrovo | Кондрово | Кондрово                                  |
+| kremenki | Кремёнки | Кремёнках                                 |
+| lyudinovo | Людиново | Людиново                                  |
+| maloyaroslavets | Малоярославец | Малоярославеце                            |
+| medyn | Медынь | Медыне                                    |
+| meschovsk | Мещовск | Мещовске                                  |
+| mosalsk | Мосальск | Мосальске                                 |
+| obninsk | Обнинск | Обнинске                                  |
+| sosenskiy | Сосенский | Сосенском                                 |
+| spas-demensk | Спас-Деменск | Спас-Деменске                             |
+| suhinichi | Сухиничи | Сухиничах                                 |
+| tarusa | Таруса | Тарусе                                    |
+| yuhnov | Юхнов | Юхнове                                    |
+| **Камчатский край и Чукотский АО** | |                                           |
+| anadyr | Анадырь | Анадыре                                   |
+| bilibino | Билибино | Билибино                                  |
+| vilyuchinsk | Вилючинск | Вилючинске                                |
+| elizovo | Елизово | Елизово                                   |
+| pevek | Певек | Певеке                                    |
+| petropavlovsk-kamchatskiy | Петропавловск-Камчатский | Петропавловск-Камчатском                  |
+| **Кемеровская область - Кузбасс** | |                                           |
+| anzhero-sudzhensk | Анжеро-Судженск | Анжеро-Судженске                          |
+| belovo | Белово | Белово                                    |
+| berezovskiy-kemerovskaya | Берёзовский (Кемеровская область) | Берёзовском (Кемеровская область)         |
+| gurevsk-kemerovskaya | Гурьевск (Кемеровская область) | Гурьевске (Кемеровская область)           |
+| kaltan | Калтан | Калтане                                   |
+| kemerovo | Кемерово | Кемерово                                  |
+| kiselevsk | Киселёвск | Киселёвске                                |
+| leninsk-kuznetskiy | Ленинск-Кузнецкий | Ленинске-Кузнецком                        |
+| mariinsk | Мариинск | Мариинске                                 |
+| mezhdurechensk | Междуреченск | Междуреченске                             |
+| myski | Мыски | Мысках                                    |
+| novokuznetsk | Новокузнецк | Новокузнецке                              |
+| osinniki | Осинники | Осинниках                                 |
+| polysaevo | Полысаево | Полысаево                                 |
+| prokopevsk | Прокопьевск | Прокопьевске                              |
+| salair | Салаир | Салаире                                   |
+| tayga | Тайга | Тайге                                     |
+| tashtagol | Таштагол | Таштаголе                                 |
+| topki | Топки | Топках                                    |
+| yurga | Юрга | Юрге                                      |
+| **Кировская область** | |                                           |
+| belaya-holunitsa | Белая Холуница | Белой Холунице                            |
+| vyatskie-polyany | Вятские Поляны | Вятских Полянах                           |
+| zuevka | Зуевка | Зуевке                                    |
+| kirov-kirovskaya | Киров (Кировская область) | Кирове (Кировская область)                |
+| kirovo-chepetsk | Кирово-Чепецк | Кирово-Чепецке                            |
+| kirs | Кирс | Кирсе                                     |
+| kotelnich | Котельнич | Котельниче                                |
+| luza | Луза | Лузе                                      |
+| malmyzh | Малмыж | Малмыже                                   |
+| murashi | Мураши | Мурашах                                   |
+| nolinsk | Нолинск | Нолинске                                  |
+| omutninsk | Омутнинск | Омутнинске                                |
+| orlov | Орлов | Орлове                                    |
+| slobodskoy | Слободской | Слободской                                |
+| sovetsk-kirovskaya | Советск (Кировская область) | Советске (Кировская область)              |
+| sosnovka | Сосновка | Сосновке                                  |
+| urzhum | Уржум | Уржуме                                    |
+| yaransk | Яранск | Яранске                                   |
+| **Костромская область** | |                                           |
+| buy | Буй | Буе                                       |
+| volgorechensk | Волгореченск | Волгореченске                             |
+| galich | Галич | Галиче                                    |
+| kologriv | Кологрив | Кологриве                                 |
+| kostroma | Кострома | Костроме                                  |
+| makarev | Макарьев | Макарьеве                                 |
+| manturovo | Мантурово | Мантурово                                 |
+| nerekhta | Нерехта | Нерехте                                   |
+| neya | Нея | Нее                                       |
+| soligalich | Солигалич | Солигаличе                                |
+| chuhloma | Чухлома | Чухломе                                   |
+| sharya | Шарья | Шарье                                     |
+| **Курганская область** | |                                           |
+| dalmatovo | Далматово | Далматово                                 |
+| kataysk | Катайск | Катайске                                  |
+| kurgan | Курган | Кургане                                   |
+| kurtamysh | Куртамыш | Куртамыше                                 |
+| makushino | Макушино | Макушино                                  |
+| petuhovo | Петухово | Петухово                                  |
+| shadrinsk | Шадринск | Шадринске                                 |
+| shumiha | Шумиха | Шумихе                                    |
+| schuche | Щучье | Щучье                                     |
+| **Курская область** | |                                           |
+| dmitriev | Дмитриев | Дмитриеве                                 |
+| zheleznogorsk-kurskaya | Железногорск (Курская область) | Железногорске (Курская область)           |
+| kursk | Курск | Курске                                    |
+| kurchatov | Курчатов | Курчатове                                 |
+| lgov | Льгов | Льгове                                    |
+| oboyan | Обоянь | Обояни                                    |
+| rylsk | Рыльск | Рыльске                                   |
+| sudzha | Суджа | Судже                                     |
+| fatezh | Фатеж | Фатеже                                    |
+| schigry | Щигры | Щиграх                                    |
+| **Ленинградская область** | |                                           |
+| boksitogorsk | Бокситогорск | Бокситогорске                             |
+| volosovo | Волосово | Волосово                                  |
+| volhov | Волхов | Волхове                                   |
+| vsevolozhsk | Всеволожск | Всеволожске                               |
+| vyborg | Выборг | Выборге                                   |
+| vysotsk | Высоцк | Высоцке                                   |
+| gatchina | Гатчина | Гатчине                                   |
+| ivangorod | Ивангород | Ивангороде                                |
+| kamennogorsk | Каменногорск | Каменногорске                             |
+| kingisepp | Кингисепп | Кингисеппе                                |
+| kirishi | Кириши | Киришах                                   |
+| kirovsk-leningradskaya | Кировск (Ленинградская область) | Кировске (Ленинградская область)          |
+| kommunar | Коммунар | Коммунар                                  |
+| kudrovo | Кудрово | Кудрово                                   |
+| lodeynoe-pole | Лодейное Поле | Лодейном Поле                             |
+| luga | Луга | Луге                                      |
+| lyuban | Любань | Любане                                    |
+| murino | Мурино | Мурино                                    |
+| nikolskoe | Никольское | Никольское                                |
+| novaya-ladoga | Новая Ладога | Новой Ладоге                              |
+| otradnoe | Отрадное | Отрадное                                  |
+| pikalevo | Пикалёво | Пикалёво                                  |
+| podporozhe | Подпорожье | Подпорожье                                |
+| primorsk-leningradskaya | Приморск (Ленинградская область) | Приморске (Ленинградская область)         |
+| priozersk | Приозерск | Приозерске                                |
+| svetogorsk | Светогорск | Светогорске                               |
+| sertolovo | Сертолово | Сертолово                                 |
+| slantsy | Сланцы | Сланцах                                   |
+| sosnovyy-bor | Сосновый Бор | Сосновом Боре                             |
+| syasstroy | Сясьстрой | Сясьстрое                                 |
+| tihvin | Тихвин | Тихвине                                   |
+| tosno | Тосно | Тосно                                     |
+| shlisselburg | Шлиссельбург | Шлиссельбурге                             |
+| **Липецкая область** | |                                           |
+| gryazi | Грязи | Грязях                                    |
+| dankov | Данков | Данкове                                   |
+| elets | Елец | Ельце                                     |
+| zadonsk | Задонск | Задонске                                  |
+| lebedyan | Лебедянь | Лебедяни                                  |
+| lipetsk | Липецк | Липецке                                   |
+| usman | Усмань | Усмани                                    |
+| chaplygin | Чаплыгин | Чаплыгине                                 |
+| **Магаданская область** | |                                           |
+| magadan | Магадан | Магадане                                  |
+| susuman | Сусуман | Сусумане                                  |
+| **Московская область** | |                                           |
+| aprelevka | Апрелевка | Апрелевке                                 |
+| balashiha | Балашиха | Балашихе                                  |
+| beloozerskiy | Белоозёрский | Белоозёрском                              |
+| bronnitsy | Бронницы | Бронницах                                 |
+| vereya | Верея | Верее                                     |
+| vidnoe | Видное | Видном                                    |
+| volokolamsk | Волоколамск | Волоколамске                              |
+| voskresensk | Воскресенск | Воскресенске                              |
+| vysokovsk | Высоковск | Высоковске                                |
+| golitsyno | Голицыно | Голицыно                                  |
+| dedovsk | Дедовск | Дедовске                                  |
+| dzerzhinskiy | Дзержинский | Дзержинском                               |
+| dmitrov | Дмитров | Дмитрове                                  |
+| dolgoprudnyy | Долгопрудный | Долгопрудном                              |
+| domodedovo | Домодедово | Домодедово                                |
+| drezna | Дрезна | Дрезне                                    |
+| dubna | Дубна | Дубна                                     |
+| egorevsk | Егорьевск | Егорьевске                                |
+| zhukovskiy | Жуковский | Жуковском                                 |
+| zaraysk | Зарайск | Зарайске                                  |
+| zvenigorod | Звенигород | Звенигороде                               |
+| ivanteevka | Ивантеевка | Ивантеевке                                |
+| istra | Истра | Истре                                     |
+| kashira | Кашира | Кашире                                    |
+| klin | Клин | Клине                                     |
+| kolomna | Коломна | Коломне                                   |
+| korolev | Королёв | Королёве                                  |
+| kotelniki | Котельники | Котельниках                               |
+| krasnoarmeysk-moskovskaya | Красноармейск (Московская область) | Красноармейскe (Московская область)       |
+| krasnogorsk | Красногорск | Красногорске                              |
+| krasnozavodsk | Краснозаводск | Краснозаводске                            |
+| krasnoznamensk-moskovskaya | Краснознаменск (Московская область) | Краснознаменске (Московская область)      |
+| kubinka | Кубинка | Кубинке                                   |
+| kurovskoe | Куровское | Куровском                                 |
+| likino-dulevo | Ликино-Дулёво | Ликино-Дулёво                             |
+| lobnya | Лобня | Лобне                                     |
+| losino-petrovskiy | Лосино-Петровский | Лосино-Петровском                         |
+| luhovitsy | Луховицы | Луховицах                                 |
+| lytkarino | Лыткарино | Лыткарино                                 |
+| lyubertsy | Люберцы | Люберцах                                  |
+| mozhaysk | Можайск | Можайске                                  |
+| mytischi | Мытищи | Мытищах                                   |
+| naro-fominsk | Наро-Фоминск | Наро-Фоминске                             |
+| noginsk | Ногинск | Ногинске                                  |
+| odintsovo | Одинцово | Одинцово                                  |
+| ozery | Озёры | Озёрах                                    |
+| orekhovo-zuevo | Орехово-Зуево | Орехово-Зуево                             |
+| pavlovskiy-posad | Павловский Посад | Павловском Посаде                         |
+| peresvet | Пересвет | Пересвете                                 |
+| podolsk | Подольск | Подольске                                 |
+| protvino | Протвино | Протвино                                  |
+| pushkino | Пушкино | Пушкино                                   |
+| puschino | Пущино | Пущино                                    |
+| ramenskoe | Раменское | Раменское                                 |
+| reutov | Реутов | Реутове                                   |
+| roshal | Рошаль | Рошале                                    |
+| ruza | Руза | Рузе                                      |
+| sergiev-posad | Сергиев Посад | Сергиевом Посаде                          |
+| serpuhov | Серпухов | Серпухове                                 |
+| solnechnogorsk | Солнечногорск | Солнечногорске                            |
+| staraya-kupavna | Старая Купавна | Старой Купавне                            |
+| stupino | Ступино | Ступино                                   |
+| taldom | Талдом | Талдоме                                   |
+| fryazino | Фрязино | Фрязино                                   |
+| himki | Химки | Химках                                    |
+| hotkovo | Хотьково | Хотьково                                  |
+| chernogolovka | Черноголовка | Черноголовке                              |
+| chekhov | Чехов | Чехове                                    |
+| shatura | Шатура | Шатуре                                    |
+| schelkovo | Щёлково | Щёлково                                   |
+| elektrogorsk | Электрогорск | Электрогорске                             |
+| elektrostal | Электросталь | Электростали                              |
+| elektrougli | Электроугли | Электроуглях                              |
+| yahroma | Яхрома | Яхроме                                    |
+| **Мурманская область** | |                                           |
+| apatity | Апатиты | Апатитах                                  |
+| gadzhievo | Гаджиево | Гаджиево                                  |
+| zaozersk | Заозёрск | Заозёрске                                 |
+| zapolyarnyy | Заполярный | Заполярном                                |
+| kandalaksha | Кандалакша | Кандалакше                                |
+| kirovsk-murmanskaya | Кировск (Мурманская область) | Кировске (Мурманская область)             |
+| kovdor | Ковдор | Ковдоре                                   |
+| kola | Кола | Коле                                      |
+| monchegorsk | Мончегорск | Мончегорске                               |
+| murmansk | Мурманск | Мурманске                                 |
+| olenegorsk | Оленегорск | Оленегорске                               |
+| ostrovnoy | Островной | Островном                                 |
+| polyarnye-zori | Полярные Зори | Полярных Зорях                            |
+| polyarnyy | Полярный | Полярном                                  |
+| severomorsk | Североморск | Североморске                              |
+| snezhnogorsk | Снежногорск | Снежногорске                              |
+| **Нижегородская область** | |                                           |
+| arzamas | Арзамас | Арзамасе                                  |
+| balahna | Балахна | Балахне                                   |
+| bogorodsk | Богородск | Богородске                                |
+| bor | Бор | Боре                                      |
+| vetluga | Ветлуга | Ветлуге                                   |
+| volodarsk | Володарск | Володарске                                |
+| vorsma | Ворсма | Ворсма                                    |
+| vyksa | Выкса | Выксе                                     |
+| gorbatov | Горбатов | Горбатове                                 |
+| gorodets | Городец | Городеце                                  |
+| dzerzhinsk | Дзержинск | Дзержинске                                |
+| zavolzhe | Заволжье | Заволжье                                  |
+| knyaginino | Княгинино | Княгинино                                 |
+| kstovo | Кстово | Кстово                                    |
+| kulebaki | Кулебаки | Кулебаках                                 |
+| lukoyanov | Лукоянов | Лукоянове                                 |
+| lyskovo | Лысково | Лыскове                                   |
+| navashino | Навашино | Навашино                                  |
+| nizhniy-novgorod | Нижний Новгород | Нижнем Новгороде                          |
+| pavlovo | Павлово | Павлово                                   |
+| pervomaysk | Первомайск | Первомайске                               |
+| perevoz | Перевоз | Перевозе                                  |
+| sarov | Саров | Сарове                                    |
+| semenov | Семёнов | Семёнове                                  |
+| sergach | Сергач | Сергаче                                   |
+| uren | Урень | Урене                                     |
+| chkalovsk | Чкаловск | Чкаловске                                 |
+| shahunya | Шахунья | Шахунье                                   |
+| **Новгородская область** | |                                           |
+| borovichi | Боровичи | Боровичах                                 |
+| valday | Валдай | Валдае                                    |
+| velikiy-novgorod | Великий Новгород | Великом Новгороде                         |
+| malaya-vishera | Малая Вишера | Малой Вишере                              |
+| okulovka | Окуловка | Окуловке                                  |
+| pestovo | Пестово | Пестово                                   |
+| soltsy | Сольцы | Сольцах                                   |
+| staraya-russa | Старая Русса | Старой Руссе                              |
+| holm | Холм | Холме                                     |
+| chudovo | Чудово | Чудово                                    |
+| **Новосибирская область** | |                                           |
+| barabinsk | Барабинск | Барабинске                                |
+| berdsk | Бердск | Бердске                                   |
+| bolotnoe | Болотное | Болотном                                  |
+| iskitim | Искитим | Искитиме                                  |
+| karasuk | Карасук | Карасуке                                  |
+| kargat | Каргат | Каргате                                   |
+| kuybyshev | Куйбышев | Куйбышеве                                 |
+| kupino | Купино | Купино                                    |
+| novosibirsk | Новосибирск | Новосибирске                              |
+| ob | Обь | Оби                                       |
+| tatarsk | Татарск | Татарске                                  |
+| toguchin | Тогучин | Тогучине                                  |
+| cherepanovo | Черепаново | Черепаново                                |
+| chulym | Чулым | Чулыме                                    |
+| **Омская область** | |                                           |
+| isilkul | Исилькуль | Исилькуле                                 |
+| kalachinsk | Калачинск | Калачинске                                |
+| nazyvaevsk | Называевск | Называевске                               |
+| omsk | Омск | Омске                                     |
+| tara | Тара | Таре                                      |
+| tyukalinsk | Тюкалинск | Тюкалинске                                |
+| **Оренбургская область** | |                                           |
+| abdulino | Абдулино | Абдулино                                  |
+| buguruslan | Бугуруслан | Бугуруслане                               |
+| buzuluk | Бузулук | Бузулуке                                  |
+| gay | Гай | Гае                                       |
+| kuvandyk | Кувандык | Кувандыке                                 |
+| mednogorsk | Медногорск | Медногорске                               |
+| novotroitsk | Новотроицк | Новотроицке                               |
+| orenburg | Оренбург | Оренбурге                                 |
+| orsk | Орск | Орске                                     |
+| sol-iletsk | Соль-Илецк | Соль-Илецке                               |
+| sorochinsk | Сорочинск | Сорочинске                                |
+| yasnyy | Ясный | Ясном                                     |
+| **Орловская область** | |                                           |
+| bolhov | Болхов | Болхове                                   |
+| dmitrovsk | Дмитровск | Дмитровске                                |
+| livny | Ливны | Ливнах                                    |
+| maloarhangelsk | Малоархангельск | Малоархангельске                          |
+| mtsensk | Мценск | Мценске                                   |
+| novosil | Новосиль | Новосиле                                  |
+| orel | Орёл | Орле                                      |
+| **Пензенская область** | |                                           |
+| belinskiy | Белинский | Белинском                                 |
+| gorodische | Городище | Городище                                  |
+| zarechnyy-penzenskaya | Заречный (Пензенская область) | Заречном (Пензенская область)             |
+| kamenka | Каменка | Каменке                                   |
+| kuznetsk | Кузнецк | Кузнецке                                  |
+| nizhniy-lomov | Нижний Ломов | Нижнем Ломове                             |
+| nikolsk-penzenskaya | Никольск (Пензенская область) | Никольске (Пензенская область)            |
+| penza | Пенза | Пензе                                     |
+| serdobsk | Сердобск | Сердобске                                 |
+| spassk | Спасск | Спасске                                   |
+| sursk | Сурск | Сурске                                    |
+| **Пермский край** | |                                           |
+| aleksandrovsk | Александровск | Александровске                            |
+| berezniki | Березники | Березниках                                |
+| vereschagino | Верещагино | Верещагино                                |
+| gornozavodsk | Горнозаводск | Горнозаводске                             |
+| gremyachinsk | Гремячинск | Гремячинске                               |
+| gubaha | Губаха | Губахе                                    |
+| dobryanka | Добрянка | Добрянке                                  |
+| kizel | Кизел | Кизеле                                    |
+| krasnovishersk | Красновишерск | Красновишерске                            |
+| krasnokamsk | Краснокамск | Краснокаменске                            |
+| kudymkar | Кудымкар | Кудымкаре                                 |
+| kungur | Кунгур | Кунгуре                                   |
+| lysva | Лысьва | Лысьве                                    |
+| nytva | Нытва | Нытве                                     |
+| osa | Оса | Осе                                       |
+| ohansk | Оханск | Оханске                                   |
+| ocher | Очёр | Очёре                                     |
+| perm | Пермь | Перми                                     |
+| solikamsk | Соликамск | Соликамске                                |
+| usole | Усолье | Усолье                                    |
+| chaykovskiy | Чайковский | Чайковском                                |
+| cherdyn | Чердынь | Чердыни                                   |
+| chermoz | Чёрмоз | Чёрмозе                                   |
+| chernushka | Чернушка | Чернушке                                  |
+| chusovoy | Чусовой | Чусовом                                   |
+| **Псковская область** | |                                           |
+| velikie-luki | Великие Луки | Великих Луках                             |
+| gdov | Гдов | Гдове                                     |
+| dno | Дно | Дне                                       |
+| nevel | Невель | Невеле                                    |
+| novorzhev | Новоржев | Новоржеве                                 |
+| novosokolniki | Новосокольники | Новосокольниках                           |
+| opochka | Опочка | Опочке                                    |
+| ostrov | Остров | Острове                                   |
+| pechory | Печоры | Печорах                                   |
+| porhov | Порхов | Порхове                                   |
+| pskov | Псков | Пскове                                    |
+| pustoshka | Пустошка | Пустошке                                  |
+| pytalovo | Пыталово | Пыталово                                  |
+| sebezh | Себеж | Себеже                                    |
+| **Ростовская область** | |                                           |
+| azov | Азов | Азове                                     |
+| aksay | Аксай | Аксае                                     |
+| bataysk | Батайск | Батайске                                  |
+| belaya-kalitva | Белая Калитва | Белой Калитве                             |
+| volgodonsk | Волгодонск | Волгодонске                               |
+| gukovo | Гуково | Гуково                                    |
+| donetsk | Донецк | Донецке                                   |
+| zverevo | Зверево | Зверево                                   |
+| zernograd | Зерноград | Зернограде                                |
+| kamensk-shahtinskiy | Каменск-Шахтинский | Каменске-Шахтинском                       |
+| konstantinovsk | Константиновск | Константиновске                           |
+| krasnyy-sulin | Красный Сулин | Красном Сулине                            |
+| millerovo | Миллерово | Миллерово                                 |
+| morozovsk | Морозовск | Морозовске                                |
+| novocherkassk | Новочеркасск | Новочеркасске                             |
+| novoshahtinsk | Новошахтинск | Новошахтинске                             |
+| proletarsk | Пролетарск | Пролетарске                               |
+| rostov-na-donu | Ростов-на-Дону | Ростове-на-Дону                           |
+| salsk | Сальск | Сальске                                   |
+| semikarakorsk | Семикаракорск | Семикаракорске                            |
+| taganrog | Таганрог | Таганроге                                 |
+| tsimlyansk | Цимлянск | Цимлянске                                 |
+| shahty | Шахты | Шахтах                                    |
+| **Рязанская область** | |                                           |
+| kasimov | Касимов | Касимове                                  |
+| korablino | Кораблино | Кораблино                                 |
+| mihaylov | Михайлов | Михайлове                                 |
+| novomichurinsk | Новомичуринск | Новомичуринске                            |
+| rybnoe | Рыбное | Рыбное                                    |
+| ryazhsk | Ряжск | Ряжске                                    |
+| ryazan | Рязань | Рязани                                    |
+| sasovo | Сасово | Сасово                                    |
+| skopin | Скопин | Скопине                                   |
+| spas-klepiki | Спас-Клепики | Спас-Клепиках                             |
+| spassk-ryazanskiy | Спасск-Рязанский | Спасске-Рязанском                         |
+| shatsk | Шацк | Шацке                                     |
+| **Самарская область** | |                                           |
+| zhigulevsk | Жигулёвск | Жигулёвске                                |
+| kinel | Кинель | Кинеле                                    |
+| neftegorsk | Нефтегорск | Нефтегорске                               |
+| novokuybyshevsk | Новокуйбышевск | Новокуйбышевске                           |
+| oktyabrsk | Октябрьск | Октябрьске                                |
+| otradnyy | Отрадный | Отрадном                                  |
+| pohvistnevo | Похвистнево | Похвистнево                               |
+| samara | Самара | Самаре                                    |
+| syzran | Сызрань | Сызрани                                   |
+| tolyatti | Тольятти | Тольятти                                  |
+| chapaevsk | Чапаевск | Чапаевске                                 |
+| **Саратовская область** | |                                           |
+| arkadak | Аркадак | Аркадаке                                  |
+| atkarsk | Аткарск | Аткарске                                  |
+| balakovo | Балаково | Балаково                                  |
+| balashov | Балашов | Балашове                                  |
+| volsk | Вольск | Вольске                                   |
+| ershov | Ершов | Ершове                                    |
+| kalininsk | Калининск | Калининске                                |
+| krasnoarmeysk-saratovskaya | Красноармейск (Саратовская область) | Красноармейскe (Саратовская область)      |
+| krasnyy-kut | Красный Кут | Красном Куте                              |
+| marks | Маркс | Марксе                                    |
+| novouzensk | Новоузенск | Новоузенске                               |
+| petrovsk | Петровск | Петровске                                 |
+| pugachev | Пугачёв | Пугачёве                                  |
+| rtischevo | Ртищево | Ртищево                                   |
+| saratov | Саратов | Саратове                                  |
+| hvalynsk | Хвалынск | Хвалынске                                 |
+| shihany | Шиханы | Шиханах                                   |
+| engels | Энгельс | Энгельсе                                  |
+| **Сахалинская область** | |                                           |
+| aleksandrovsk-sahalinskiy | Александровск-Сахалинский | Александровске-Сахалинском                |
+| aniva | Анива | Аниве                                     |
+| dolinsk | Долинск | Долинске                                  |
+| korsakov | Корсаков | Корсакове                                 |
+| kurilsk | Курильск | Курильске                                 |
+| makarov | Макаров | Макарове                                  |
+| nevelsk | Невельск | Невельске                                 |
+| oha | Оха | Охе                                       |
+| poronaysk | Поронайск | Поронайске                                |
+| severo-kurilsk | Северо-Курильск | Северо-Курильске                          |
+| tomari | Томари | Томари                                    |
+| uglegorsk | Углегорск | Углегорске                                |
+| holmsk | Холмск | Холмске                                   |
+| yuzhno-sahalinsk | Южно-Сахалинск | Южно-Сахалинске                           |
+| **Свердловская область** | |                                           |
+| alapaevsk | Алапаевск | Алапаевске                                |
+| aramil | Арамиль | Арамиле                                   |
+| artemovskiy | Артёмовский | Артёмовском                               |
+| asbest | Асбест | Асбесте                                   |
+| berezovskiy-sverdlovskaya | Берёзовский (Свердловская область) | Берёзовском (Свердловская область)        |
+| bogdanovich | Богданович | Богдановиче                               |
+| verhniy-tagil | Верхний Тагил | Верхнем Тагиле                            |
+| verhnyaya-pyshma | Верхняя Пышма | Верхней Пышме                             |
+| verhnyaya-salda | Верхняя Салда | Верхней Салде                             |
+| verhnyaya-tura | Верхняя Тура | Верхней Туре                              |
+| verhoture | Верхотурье | Верхотурье                                |
+| volchansk | Волчанск | Волчанске                                 |
+| degtyarsk | Дегтярск | Дегтярске                                 |
+| ekaterinburg | Екатеринбург | Екатеринбурге                             |
+| zarechnyy-sverdlovskaya | Заречный (Свердловская область) | Заречном (Свердловская область)           |
+| ivdel | Ивдель | Ивделе                                    |
+| irbit | Ирбит | Ирбите                                    |
+| kamensk-uralskiy | Каменск-Уральский | Каменске-Уральском                        |
+| kamyshlov | Камышлов | Камышлове                                 |
+| karpinsk | Карпинск | Карпинске                                 |
+| kachkanar | Качканар | Качканаре                                 |
+| kirovgrad | Кировград | Кировграде                                |
+| krasnoturinsk | Краснотурьинск | Краснотурьинске                           |
+| krasnouralsk | Красноуральск | Красноуральске                            |
+| krasnoufimsk | Красноуфимск | Красноуфимске                             |
+| kushva | Кушва | Кушве                                     |
+| lesnoy | Лесной | Лесном                                    |
+| mihaylovsk-sverdlovskaya | Михайловск (Свердловская область) | Михайловске (Свердловская область)        |
+| nevyansk | Невьянск | Невьянске                                 |
+| nizhnie-sergi | Нижние Серги | Нижних Сергах                             |
+| nizhniy-tagil | Нижний Тагил | Нижним Тагиле                             |
+| nizhnyaya-salda | Нижняя Салда | Нижней Салде                              |
+| nizhnyaya-tura | Нижняя Тура | Нижней Туре                               |
+| novaya-lyalya | Новая Ляля | Новой Ляле                                |
+| novouralsk | Новоуральск | Новоуральске                              |
+| pervouralsk | Первоуральск | Первоуральске                             |
+| polevskoy | Полевской | Полевском                                 |
+| revda | Ревда | Ревде                                     |
+| rezh | Реж | Реже                                      |
+| severouralsk | Североуральск | Североуральске                            |
+| serov | Серов | Серове                                    |
+| sredneuralsk | Среднеуральск | Среднеуральске                            |
+| suhoy-log | Сухой Лог | Сухом Логе                                |
+| sysert | Сысерть | Сысерти                                   |
+| tavda | Тавда | Тавде                                     |
+| talitsa | Талица | Талице                                    |
+| turinsk | Туринск | Туринске                                  |
+| **Смоленская область** | |                                           |
+| velizh | Велиж | Велиже                                    |
+| vyazma | Вязьма | Вязьме                                    |
+| gagarin | Гагарин | Гагарине                                  |
+| demidov | Демидов | Демидове                                  |
+| desnogorsk | Десногорск | Десногорске                               |
+| dorogobuzh | Дорогобуж | Дорогобуже                                |
+| duhovschina | Духовщина | Духовщине                                 |
+| elnya | Ельня | Ельне                                     |
+| pochinok | Починок | Починоке                                  |
+| roslavl | Рославль | Рославле                                  |
+| rudnya | Рудня | Рудня                                     |
+| safonovo | Сафоново | Сафоново                                  |
+| smolensk | Смоленск | Смоленске                                 |
+| sychevka | Сычёвка | Сычёвке                                   |
+| yartsevo | Ярцево | Ярцево                                    |
+| **Тамбовская область** | |                                           |
+| zherdevka | Жердевка | Жердевке                                  |
+| kirsanov | Кирсанов | Кирсанове                                 |
+| kotovsk | Котовск | Котовске                                  |
+| michurinsk | Мичуринск | Мичуринске                                |
+| morshansk | Моршанск | Моршанске                                 |
+| rasskazovo | Рассказово | Рассказово                                |
+| tambov | Тамбов | Тамбове                                   |
+| uvarovo | Уварово | Уварово                                   |
+| **Тверская область** | |                                           |
+| andreapol | Андреаполь | Андреаполе                                |
+| bezhetsk | Бежецк | Бежецке                                   |
+| belyy | Белый | Белом                                     |
+| bologoe | Бологое | Бологое                                   |
+| vesegonsk | Весьегонск | Весьегонске                               |
+| vyshniy-volochek | Вышний Волочёк | Вышнем Волочке                            |
+| zapadnaya-dvina | Западная Двина | Западной Двине                            |
+| zubtsov | Зубцов | Зубцове                                   |
+| kalyazin | Калязин | Калязине                                  |
+| kashin | Кашин | Кашине                                    |
+| kimry | Кимры | Кимры                                     |
+| konakovo | Конаково | Конаково                                  |
+| krasnyy-holm | Красный Холм | Красном Холме                             |
+| kuvshinovo | Кувшиново | Кувшиново                                 |
+| lihoslavl | Лихославль | Лихославле                                |
+| nelidovo | Нелидово | Нелидово                                  |
+| ostashkov | Осташков | Осташкове                                 |
+| rzhev | Ржев | Ржеве                                     |
+| staritsa | Старица | Старице                                   |
+| tver | Тверь | Твери                                     |
+| torzhok | Торжок | Торжоке                                   |
+| toropets | Торопец | Торопце                                   |
+| udomlya | Удомля | Удомле                                    |
+| **Томская область** | |                                           |
+| asino | Асино | Асино                                     |
+| kedrovyy | Кедровый | Кедровом                                  |
+| kolpashevo | Колпашево | Колпашево                                 |
+| seversk | Северск | Северске                                  |
+| strezhevoy | Стрежевой | Стрежевой                                 |
+| tomsk | Томск | Томске                                    |
+| **Тульская область** | |                                           |
+| aleksin | Алексин | Алексине                                  |
+| belev | Белёв | Белёве                                    |
+| bogoroditsk | Богородицк | Богородицке                               |
+| bolohovo | Болохово | Болохово                                  |
+| venev | Венёв | Венёве                                    |
+| donskoy | Донской | Донском                                   |
+| efremov | Ефремов | Ефремове                                  |
+| kimovsk | Кимовск | Кимовске                                  |
+| kireevsk | Киреевск | Киреевске                                 |
+| lipki | Липки | Липках                                    |
+| novomoskovsk | Новомосковск | Новомосковске                             |
+| plavsk | Плавск | Плавске                                   |
+| sovetsk-tulskaya | Советск (Тульская область) | Советске (Тульская область)               |
+| suvorov | Суворов | Суворове                                  |
+| tula | Тула | Туле                                      |
+| uzlovaya | Узловая | Узловой                                   |
+| chekalin | Чекалин | Чекалине                                  |
+| schekino | Щёкино | Щёкино                                    |
+| yasnogorsk | Ясногорск | Ясногорске                                |
+| **Тюменская область** | |                                           |
+| zavodoukovsk | Заводоуковск | Заводоуковске                             |
+| ishim | Ишим | Ишиме                                     |
+| tobolsk | Тобольск | Тобольске                                 |
+| tyumen | Тюмень | Тюмени                                    |
+| yalutorovsk | Ялуторовск | Ялуторовске                               |
+| **Ульяновская область** | |                                           |
+| barysh | Барыш | Барыше                                    |
+| dimitrovgrad | Димитровград | Димитровграде                             |
+| inza | Инза | Инзе                                      |
+| novoulyanovsk | Новоульяновск | Новоульяновске                            |
+| sengiley | Сенгилей | Сенгилее                                  |
+| ulyanovsk | Ульяновск | Ульяновске                                |
+| **Челябинская область** | |                                           |
+| asha | Аша | Аше                                       |
+| bakal | Бакал | Бакалах                                   |
+| verhneuralsk | Верхнеуральск | Верхнеуральске                            |
+| verhniy-ufaley | Верхний Уфалей | Верхнем Уфалее                            |
+| emanzhelinsk | Еманжелинск | Еманжелинске                              |
+| zlatoust | Златоуст | Златоусте                                 |
+| karabash | Карабаш | Карабаше                                  |
+| kartaly | Карталы | Карталы                                   |
+| kasli | Касли | Каслях                                    |
+| katav-ivanovsk | Катав-Ивановск | Катав-Ивановске                           |
+| kopeysk | Копейск | Копейске                                  |
+| korkino | Коркино | Коркино                                   |
+| kusa | Куса | Кусе                                      |
+| kyshtym | Кыштым | Кыштыме                                   |
+| magnitogorsk | Магнитогорск | Магнитогорске                             |
+| miass | Миасс | Миассе                                    |
+| minyar | Миньяр | Миньяре                                   |
+| nyazepetrovsk | Нязепетровск | Нязепетровске                             |
+| ozersk-chelyabinskaya | Озёрск (Челябинская область) | Озёрске (Челябинская область)             |
+| plast | Пласт | Пласте                                    |
+| satka | Сатка | Сатке                                     |
+| sim | Сим | Симе                                      |
+| snezhinsk | Снежинск | Снежинске                                 |
+| trekhgornyy | Трёхгорный | Трёхгорном                                |
+| troitsk | Троицк | Троицке                                   |
+| ust-katav | Усть-Катав | Усть-Катаве                               |
+| chebarkul | Чебаркуль | Чебаркуле                                 |
+| chelyabinsk | Челябинск | Челябинске                                |
+| yuzhnouralsk | Южноуральск | Южноуральске                              |
+| yuryuzan | Юрюзань | Юрюзани                                   |
+| **Забайкальский край** | |                                           |
+| baley | Балей | Балей                                     |
+| borzya | Борзя | Борзе                                     |
+| krasnokamensk | Краснокаменск | Красноармейске                            |
+| mogocha | Могоча | Могоче                                    |
+| nerchinsk | Нерчинск | Нерчинске                                 |
+| petrovsk-zabaykalskiy | Петровск-Забайкальский | Петровск-Забайкальском                    |
+| sretensk | Сретенск | Сретенске                                 |
+| hilok | Хилок | Хилоке                                    |
+| chita | Чита | Чите                                      |
+| shilka | Шилка | Шилке                                     |
+| **Ярославская область** | |                                           |
+| gavrilov-yam | Гаврилов-Ям | Гаврилов-Яме                              |
+| danilov | Данилов | Данилове                                  |
+| lyubim | Любим | Любиме                                    |
+| myshkin | Мышкин | Мышкине                                   |
+| pereslavl-zalesskiy | Переславль-Залесский | Переславле-Залесском                      |
+| poshekhone | Пошехонье | Пошехонье                                 |
+| rostov | Ростов | Ростове                                   |
+| rybinsk | Рыбинск | Рыбинске                                  |
+| tutaev | Тутаев | Тутаеве                                   |
+| uglich | Углич | Углич                                     |
+| yaroslavl | Ярославль | Ярославле                                 |
+| **Москва** | |                                           |
+| moskva | Москва | Москве                                    |
+| **Санкт-Петербург** | |                                           |
+| sankt-peterburg | Санкт-Петербург | Санкт-Петербурге                          |
+| **Республика Крым** | |                                           |
+| alupka | Алупка | Алупке                                    |
+| alushta | Алушта | Алуште                                    |
+| armyansk | Армянск | Армянске                                  |
+| bahchisaray | Бахчисарай | Бахчисарае                                |
+| belogorsk-krym | Белогорск (Крым) | Белогорске (Крым)                         |
+| dzhankoy | Джанкой | Джанкое                                   |
+| evpatoriya | Евпатория | Евпатории                                 |
+| kerch | Керчь | Керчь                                     |
+| krasnoperekopsk | Красноперекопск | Красноперекопске                          |
+| saki | Саки | Саках                                     |
+| simferopol | Симферополь | Симферополе                               |
+| staryy-krym | Старый Крым | Старом Крыме                              |
+| sudak | Судак | Судаке                                    |
+| feodosiya | Феодосия | Феодосии                                  |
+| schelkino | Щёлкино | Щёлкино                                   |
+| yalta | Ялта | Ялте                                      |
+| **Ханты-Мансийский АО-Югра** | |                                           |
+| beloyarskiy | Белоярский | Белоярском                                |
+| kogalym | Когалым | Когалыме                                  |
+| langepas | Лангепас | Лангепасе                                 |
+| lyantor | Лянтор | Лянторе                                   |
+| megion | Мегион | Мегионе                                   |
+| nefteyugansk | Нефтеюганск | Нефтеюганске                              |
+| nizhnevartovsk | Нижневартовск | Нижневартовске                            |
+| nyagan | Нягань | Нягани                                    |
+| pokachi | Покачи | Покачах                                   |
+| pyt-yah | Пыть-Ях | Пыть-Яхе                                  |
+| raduzhnyy-hanty-mansijskij | Радужный (Ханты-Мансийский АО) | Радужном (Ханты-Мансийский АО)            |
+| sovetskiy | Советский | Советском                                 |
+| surgut | Сургут | Сургуте                                   |
+| uray | Урай | Урае                                      |
+| hanty-mansiysk | Ханты-Мансийск | Ханты-Мансийске                           |
+| yugorsk | Югорск | Югорске                                   |
+| **Чукотский АО** | |                                           |
+| **Ямало-Ненецкий АО** | |                                           |
+| gubkinskiy | Губкинский | Губкинском                                |
+| labytnangi | Лабытнанги | Лабытнангах                               |
+| muravlenko | Муравленко | Муравленко                                |
+| nadym | Надым | Надыме                                    |
+| novyy-urengoy | Новый Уренгой | Новом Уренгое                             |
+| noyabrsk | Ноябрьск | Ноябрьске                                 |
+| salekhard | Салехард | Салехарде                                 |
+| tarko-sale | Тарко-Сале | Тарко-Сале                                |
+| **Севастополь** | |                                           |
+| sevastopol | Севастополь | Севастополе                               |
